@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Skagar/Leetcode/tree/master/0001-two-sum) |
+| [0027-remove-element](https://github.com/Skagar/Leetcode/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/Skagar/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0503-next-greater-element-ii](https://github.com/Skagar/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/Skagar/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/Skagar/Leetcode/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/Skagar/Leetcode/tree/master/0042-trapping-rain-water) |
 ## Dynamic Programming
 |  |
