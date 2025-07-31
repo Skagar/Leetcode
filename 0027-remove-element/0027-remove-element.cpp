@@ -1,9 +1,10 @@
 class Solution {
 public:
     int removeElement(vector<int>& nums, int val) {
-        vector<int>ans;
-        int n=nums.size();
-        for(int i=0;i<n;i++)
+        vector<int> ans;
+        int n = nums.size();
+        // BRUTE FORCE APPROACH
+        /*for(int i=0;i<n;i++)
         {
             if(nums[i]!=val)
             ans.push_back(nums[i]);
@@ -13,6 +14,20 @@ public:
         {
             nums[i]=ans[i];
     }
-        return k;
+        return k;*/
+        // optimal APPROACH
+        int left = 0;
+        int right = nums.size() - 1;
+        
+        while(left <= right) {
+            if(nums[left] == val) {
+                // Swap with element from end and reduce array size
+                nums[left] = nums[right];
+                right--;
+            } else {
+                left++;
+            }
+        }
+        return right + 1;
     }
 };
