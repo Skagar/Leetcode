@@ -1,7 +1,8 @@
 #include<bits/stdc++.h>
 class Solution {
-public:
-    vector<int> findpse(vector<int> heights)
+public: 
+//Brute Force Approach
+   /* vector<int> findpse(vector<int> heights)
     {
         
         stack<int>st;
@@ -43,9 +44,9 @@ public:
             reverse(ans.begin(),ans.end());
         
             return ans;
-    }
+    }*/
     int largestRectangleArea(vector<int>& heights) {
-        vector<int>pse=findpse(heights);
+        /*vector<int>pse=findpse(heights);
         vector<int>nse=findnse(heights);
          int n=heights.size();
         int area=INT_MIN;
@@ -56,6 +57,30 @@ public:
           int newArea= len*bred;
           area=max(area,newArea);
         }
-        return area;
+        return area;*/
+        int n=heights.size();
+        stack<int>st;
+        int area=INT_MIN;
+        for(int i=0;i<n;i++)
+        {
+            while(!st.empty() && (heights[st.top()]>heights[i]))
+            {
+                int ele=heights[st.top()];
+                st.pop();
+                int nse=i;
+                int pse= st.empty()? -1:st.top();
+                area=max(area ,((nse-pse-1)*ele));
+            }
+            st.push(i);
+        }
+         while(!st.empty())
+            {
+                int ele=heights[st.top()];
+                st.pop();
+                int nse=n;
+                int pse= st.empty()? -1:st.top();
+                area=max(area ,((nse-pse-1)*ele));
+            }
+            return area;
     }
 };
