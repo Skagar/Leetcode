@@ -17,10 +17,12 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0735-asteroid-collision](https://github.com/Skagar/Leetcode/tree/master/0735-asteroid-collision) |
 | [0943-sum-of-subarray-minimums](https://github.com/Skagar/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [2227-sum-of-subarray-ranges](https://github.com/Skagar/Leetcode/tree/master/2227-sum-of-subarray-ranges) |
+| [2696-the-number-of-beautiful-subsets](https://github.com/Skagar/Leetcode/tree/master/2696-the-number-of-beautiful-subsets) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Skagar/Leetcode/tree/master/0001-two-sum) |
+| [2696-the-number-of-beautiful-subsets](https://github.com/Skagar/Leetcode/tree/master/2696-the-number-of-beautiful-subsets) |
 ## Stack
 |  |
 | ------- |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0042-trapping-rain-water](https://github.com/Skagar/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/Skagar/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0943-sum-of-subarray-minimums](https://github.com/Skagar/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
+| [2696-the-number-of-beautiful-subsets](https://github.com/Skagar/Leetcode/tree/master/2696-the-number-of-beautiful-subsets) |
 ## Simulation
 |  |
 | ------- |
@@ -75,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Skagar/Leetcode/tree/master/0015-3sum) |
+| [2696-the-number-of-beautiful-subsets](https://github.com/Skagar/Leetcode/tree/master/2696-the-number-of-beautiful-subsets) |
 ## Design
 |  |
 | ------- |
@@ -109,8 +113,17 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0022-generate-parentheses](https://github.com/Skagar/Leetcode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Skagar/Leetcode/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/Skagar/Leetcode/tree/master/0078-subsets) |
+| [2696-the-number-of-beautiful-subsets](https://github.com/Skagar/Leetcode/tree/master/2696-the-number-of-beautiful-subsets) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Skagar/Leetcode/tree/master/0078-subsets) |
+## Math
+|  |
+| ------- |
+| [2696-the-number-of-beautiful-subsets](https://github.com/Skagar/Leetcode/tree/master/2696-the-number-of-beautiful-subsets) |
+## Combinatorics
+|  |
+| ------- |
+| [2696-the-number-of-beautiful-subsets](https://github.com/Skagar/Leetcode/tree/master/2696-the-number-of-beautiful-subsets) |
 <!---LeetCode Topics End-->
