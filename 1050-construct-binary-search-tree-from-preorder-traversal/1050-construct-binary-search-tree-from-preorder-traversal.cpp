@@ -11,41 +11,55 @@
  * };
  */
 class Solution {
-private:
-    void createmapping(map<int, int>& mp, vector<int>& inorder) {
-        int n = inorder.size();
-        for (int i = 0; i < n; i++) {
-            mp[inorder[i]] = i;
-        }
-    }
-    TreeNode* createBST(TreeNode* root, map<int, int>& mp, vector<int>& inorder,
-                        vector<int>& preorder, int& index, int n, int s,
-                        int e) {
-        if (s > e || index >= n)
+    // Method 1:
+    /*
+   private:
+       void createmapping(map<int, int>& mp, vector<int>& inorder) {
+           int n = inorder.size();
+           for (int i = 0; i < n; i++) {
+               mp[inorder[i]] = i;
+           }
+       }
+       TreeNode* createBST(TreeNode* root, map<int, int>& mp, vector<int>&
+   inorder, vector<int>& preorder, int& index, int n, int s, int e) { if (s > e
+   || index >= n) return NULL; int ele = preorder[index++]; int pos = mp[ele];
+           root = new TreeNode(ele);
+           root->left =
+               createBST(root->left, mp, inorder, preorder, index, n, s, pos -
+   1); root->right = createBST(root->right, mp, inorder, preorder, index, n, pos
+   + 1, e); return root;
+       }
+   */
+    TreeNode* createBST(TreeNode* root, int& index, vector<int>& preorder,
+                        int mini, int maxi) {
+        if (index >= preorder.size())
+            return NULL;
+        if (preorder[index] < mini || preorder[index] > maxi)
             return NULL;
         int ele = preorder[index++];
-        int pos = mp[ele];
         root = new TreeNode(ele);
-        root->left =
-            createBST(root->left, mp, inorder, preorder, index, n, s, pos - 1);
-        root->right =
-            createBST(root->right, mp, inorder, preorder, index, n, pos + 1, e);
+        root->left = createBST(root->left, index, preorder, mini, root->val);
+        root->right = createBST(root->right, index, preorder, root->val, maxi);
         return root;
     }
 
 public:
     TreeNode* bstFromPreorder(vector<int>& preorder) {
-        vector<int> inorder;
-        map<int, int> mp;
-        int s = 0;
-        int e = preorder.size();
-        for (int i = 0; i < e; i++) {
-            inorder.push_back(preorder[i]);
-        }
-        sort(inorder.begin(), inorder.end());
-        createmapping(mp, inorder);
+        // Method 1:
+        /* vector<int> inorder;
+         map<int, int> mp;
+         int s = 0;
+         int e = preorder.size();
+         for (int i = 0; i < e; i++) {
+             inorder.push_back(preorder[i]);
+         }
+         sort(inorder.begin(), inorder.end());
+         createmapping(mp, inorder);
+         TreeNode* root = NULL;
+         int index = 0;
+         return createBST(root, mp, inorder, preorder, index, e, 0, e - 1);*/
         TreeNode* root = NULL;
         int index = 0;
-        return createBST(root, mp, inorder, preorder, index, e, 0, e - 1);
+        return createBST(root, index, preorder, INT_MIN, INT_MAX);
     }
 };
