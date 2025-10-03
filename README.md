@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0015-3sum](https://github.com/Skagar/Leetcode/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/Skagar/Leetcode/tree/master/0088-merge-sorted-array) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Skagar/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1427-all-elements-in-two-binary-search-trees](https://github.com/Skagar/Leetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/Skagar/Leetcode/tree/master/2696-the-number-of-beautiful-subsets) |
 ## Design
 |  |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Skagar/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Skagar/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1285-balance-a-binary-search-tree](https://github.com/Skagar/Leetcode/tree/master/1285-balance-a-binary-search-tree) |
+| [1427-all-elements-in-two-binary-search-trees](https://github.com/Skagar/Leetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1005-univalued-binary-tree](https://github.com/Skagar/Leetcode/tree/master/1005-univalued-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Skagar/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/Skagar/Leetcode/tree/master/1285-balance-a-binary-search-tree) |
+| [1427-all-elements-in-two-binary-search-trees](https://github.com/Skagar/Leetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 ## Binary Tree
 |  |
 | ------- |
@@ -264,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Skagar/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Skagar/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1285-balance-a-binary-search-tree](https://github.com/Skagar/Leetcode/tree/master/1285-balance-a-binary-search-tree) |
+| [1427-all-elements-in-two-binary-search-trees](https://github.com/Skagar/Leetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -307,4 +311,5 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0784-insert-into-a-binary-search-tree](https://github.com/Skagar/Leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Skagar/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1285-balance-a-binary-search-tree](https://github.com/Skagar/Leetcode/tree/master/1285-balance-a-binary-search-tree) |
+| [1427-all-elements-in-two-binary-search-trees](https://github.com/Skagar/Leetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 <!---LeetCode Topics End-->
