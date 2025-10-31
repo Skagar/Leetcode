@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0735-asteroid-collision](https://github.com/Skagar/Leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Skagar/Leetcode/tree/master/0739-daily-temperatures) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Skagar/Leetcode/tree/master/0775-n-ary-tree-preorder-traversal) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/Skagar/Leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0937-online-stock-span](https://github.com/Skagar/Leetcode/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/Skagar/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Skagar/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Skagar/Leetcode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/Skagar/Leetcode/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Skagar/Leetcode/tree/master/0775-n-ary-tree-preorder-traversal) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/Skagar/Leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Skagar/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Skagar/Leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/Skagar/Leetcode/tree/master/0904-leaf-similar-trees) |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Skagar/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Skagar/Leetcode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Skagar/Leetcode/tree/master/0775-n-ary-tree-preorder-traversal) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/Skagar/Leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0904-leaf-similar-trees](https://github.com/Skagar/Leetcode/tree/master/0904-leaf-similar-trees) |
 | [0975-range-sum-of-bst](https://github.com/Skagar/Leetcode/tree/master/0975-range-sum-of-bst) |
 | [1005-univalued-binary-tree](https://github.com/Skagar/Leetcode/tree/master/1005-univalued-binary-tree) |
