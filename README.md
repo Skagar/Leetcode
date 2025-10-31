@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Skagar/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Skagar/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Skagar/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Skagar/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Skagar/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0503-next-greater-element-ii](https://github.com/Skagar/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0654-maximum-binary-tree](https://github.com/Skagar/Leetcode/tree/master/0654-maximum-binary-tree) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [0015-3sum](https://github.com/Skagar/Leetcode/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/Skagar/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Skagar/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Skagar/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Skagar/Leetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/Skagar/Leetcode/tree/master/2696-the-number-of-beautiful-subsets) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Skagar/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Skagar/Leetcode/tree/master/0239-sliding-window-maximum) |
 ## Monotonic Queue
 |  |
@@ -321,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Skagar/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Skagar/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Skagar/Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Skagar/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0654-maximum-binary-tree](https://github.com/Skagar/Leetcode/tree/master/0654-maximum-binary-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/Skagar/Leetcode/tree/master/1285-balance-a-binary-search-tree) |
 ## Binary Search Tree
@@ -346,4 +350,8 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Skagar/Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Skagar/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
