@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0042-trapping-rain-water](https://github.com/Skagar/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/Skagar/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Skagar/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0295-find-median-from-data-stream](https://github.com/Skagar/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Skagar/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Dynamic Programming
 |  |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0015-3sum](https://github.com/Skagar/Leetcode/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/Skagar/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Skagar/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/Skagar/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Skagar/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Skagar/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/Skagar/Leetcode/tree/master/0506-relative-ranks) |
@@ -131,10 +133,12 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Design
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/Skagar/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0937-online-stock-span](https://github.com/Skagar/Leetcode/tree/master/0937-online-stock-span) |
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/Skagar/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0937-online-stock-span](https://github.com/Skagar/Leetcode/tree/master/0937-online-stock-span) |
 ## Queue
 |  |
@@ -150,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0023-merge-k-sorted-lists](https://github.com/Skagar/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Skagar/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Skagar/Leetcode/tree/master/0239-sliding-window-maximum) |
+| [0295-find-median-from-data-stream](https://github.com/Skagar/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Skagar/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Skagar/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/Skagar/Leetcode/tree/master/0506-relative-ranks) |
