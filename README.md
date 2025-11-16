@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0948-sort-an-array](https://github.com/Skagar/Leetcode/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/Skagar/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Skagar/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1127-last-stone-weight](https://github.com/Skagar/Leetcode/tree/master/1127-last-stone-weight) |
 | [2227-sum-of-subarray-ranges](https://github.com/Skagar/Leetcode/tree/master/2227-sum-of-subarray-ranges) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/Skagar/Leetcode/tree/master/2696-the-number-of-beautiful-subsets) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Skagar/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0802-k-th-smallest-prime-fraction](https://github.com/Skagar/Leetcode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0948-sort-an-array](https://github.com/Skagar/Leetcode/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/Skagar/Leetcode/tree/master/1014-k-closest-points-to-origin) |
+| [1127-last-stone-weight](https://github.com/Skagar/Leetcode/tree/master/1127-last-stone-weight) |
 ## Monotonic Queue
 |  |
 | ------- |
