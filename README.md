@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0040-combination-sum-ii](https://github.com/Skagar/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/Skagar/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Skagar/Leetcode/tree/master/0046-permutations) |
+| [0054-spiral-matrix](https://github.com/Skagar/Leetcode/tree/master/0054-spiral-matrix) |
 | [0078-subsets](https://github.com/Skagar/Leetcode/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Skagar/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Skagar/Leetcode/tree/master/0085-maximal-rectangle) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Skagar/Leetcode/tree/master/0054-spiral-matrix) |
 | [0735-asteroid-collision](https://github.com/Skagar/Leetcode/tree/master/0735-asteroid-collision) |
 | [2058-concatenation-of-array](https://github.com/Skagar/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Skagar/Leetcode/tree/master/2288-count-operations-to-obtain-zero) |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Skagar/Leetcode/tree/master/0054-spiral-matrix) |
 | [0085-maximal-rectangle](https://github.com/Skagar/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Skagar/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Backtracking
