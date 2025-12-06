@@ -442,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Skagar/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/Skagar/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/Skagar/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Skagar/Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Skagar/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Skagar/Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
@@ -456,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Skagar/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/Skagar/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0203-remove-linked-list-elements](https://github.com/Skagar/Leetcode/tree/master/0203-remove-linked-list-elements) |
 ## Bucket Sort
 |  |
