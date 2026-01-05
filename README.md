@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Skagar/Leetcode/tree/master/0002-add-two-numbers) |
 | [1014-k-closest-points-to-origin](https://github.com/Skagar/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Skagar/Leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Skagar/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -443,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Skagar/Leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Skagar/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/Skagar/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Skagar/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
@@ -459,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Skagar/Leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Skagar/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Skagar/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0203-remove-linked-list-elements](https://github.com/Skagar/Leetcode/tree/master/0203-remove-linked-list-elements) |
