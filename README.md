@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0078-subsets](https://github.com/Skagar/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Skagar/Leetcode/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/Skagar/Leetcode/tree/master/0113-path-sum-ii) |
+| [0797-all-paths-from-source-to-target](https://github.com/Skagar/Leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/Skagar/Leetcode/tree/master/2696-the-number-of-beautiful-subsets) |
 ## Bit Manipulation
 |  |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Skagar/Leetcode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Skagar/Leetcode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Skagar/Leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0797-all-paths-from-source-to-target](https://github.com/Skagar/Leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Skagar/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/Skagar/Leetcode/tree/master/0904-leaf-similar-trees) |
 | [0975-range-sum-of-bst](https://github.com/Skagar/Leetcode/tree/master/0975-range-sum-of-bst) |
@@ -397,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0637-average-of-levels-in-binary-tree](https://github.com/Skagar/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Skagar/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/Skagar/Leetcode/tree/master/0764-n-ary-tree-level-order-traversal) |
+| [0797-all-paths-from-source-to-target](https://github.com/Skagar/Leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Skagar/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1005-univalued-binary-tree](https://github.com/Skagar/Leetcode/tree/master/1005-univalued-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Skagar/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -499,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Skagar/Leetcode/tree/master/0207-course-schedule) |
+| [0797-all-paths-from-source-to-target](https://github.com/Skagar/Leetcode/tree/master/0797-all-paths-from-source-to-target) |
 ## Topological Sort
 |  |
 | ------- |
