@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0094-binary-tree-inorder-traversal](https://github.com/Skagar/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Skagar/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Skagar/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0155-min-stack](https://github.com/Skagar/Leetcode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Skagar/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/Skagar/Leetcode/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/Skagar/Leetcode/tree/master/0503-next-greater-element-ii) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Skagar/Leetcode/tree/master/0155-min-stack) |
 | [0295-find-median-from-data-stream](https://github.com/Skagar/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Skagar/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0937-online-stock-span](https://github.com/Skagar/Leetcode/tree/master/0937-online-stock-span) |
