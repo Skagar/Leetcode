@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0040-combination-sum-ii](https://github.com/Skagar/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/Skagar/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Skagar/Leetcode/tree/master/0046-permutations) |
+| [0049-group-anagrams](https://github.com/Skagar/Leetcode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/Skagar/Leetcode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/Skagar/Leetcode/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/Skagar/Leetcode/tree/master/0078-subsets) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Skagar/Leetcode/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/Skagar/Leetcode/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Skagar/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Skagar/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0219-contains-duplicate-ii](https://github.com/Skagar/Leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Skagar/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/Skagar/Leetcode/tree/master/0022-generate-parentheses) |
+| [0049-group-anagrams](https://github.com/Skagar/Leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Skagar/Leetcode/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/Skagar/Leetcode/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Skagar/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -166,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [0015-3sum](https://github.com/Skagar/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Skagar/Leetcode/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/Skagar/Leetcode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/Skagar/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Skagar/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/Skagar/Leetcode/tree/master/0242-valid-anagram) |
