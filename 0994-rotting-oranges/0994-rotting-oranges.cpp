@@ -21,31 +21,26 @@ public:
                 int row = q.front().first;
                 int col = q.front().second;
                 q.pop();
-                bool flag = false;
                 if ((col + 1) < c && grid[row][col + 1] == 1 && // right
                     !visit[{row, col + 1}]) {
-                    flag = true;
                     grid[row][col + 1] = 2;
                     q.push({row, col + 1});
                     visit[{row, col + 1}] = true;
                 }
                 if ((row + 1) < r && grid[row + 1][col] == 1 && // down
                     !visit[{row + 1, col}]) {
-                    flag = true;
                     grid[row + 1][col] = 2;
                     q.push({row + 1, col});
                     visit[{row + 1, col}] = true;
                 }
                 if ((col - 1) >= 0 && grid[row][col - 1] == 1 && // left
                     !visit[{row, col - 1}]) {
-                    flag = true;
                     grid[row][col - 1] = 2;
                     q.push({row, col - 1});
                     visit[{row, col - 1}] = true;
                 }
                 if ((row - 1) >= 0 && grid[row - 1][col] == 1 && // up
                     !visit[{row - 1, col}]) {
-                    flag = true;
                     grid[row - 1][col] = 2;
                     q.push({row - 1, col});
                     visit[{row - 1, col}] = true;
