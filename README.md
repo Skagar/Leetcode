@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0994-rotting-oranges](https://github.com/Skagar/Leetcode/tree/master/0994-rotting-oranges) |
 | [1014-k-closest-points-to-origin](https://github.com/Skagar/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Skagar/Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
+| [1020-number-of-enclaves](https://github.com/Skagar/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Skagar/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1127-last-stone-weight](https://github.com/Skagar/Leetcode/tree/master/1127-last-stone-weight) |
 | [1200-minimum-absolute-difference](https://github.com/Skagar/Leetcode/tree/master/1200-minimum-absolute-difference) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0542-01-matrix](https://github.com/Skagar/Leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Skagar/Leetcode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Skagar/Leetcode/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/Skagar/Leetcode/tree/master/1020-number-of-enclaves) |
 ## Backtracking
 |  |
 | ------- |
@@ -381,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0904-leaf-similar-trees](https://github.com/Skagar/Leetcode/tree/master/0904-leaf-similar-trees) |
 | [0975-range-sum-of-bst](https://github.com/Skagar/Leetcode/tree/master/0975-range-sum-of-bst) |
 | [1005-univalued-binary-tree](https://github.com/Skagar/Leetcode/tree/master/1005-univalued-binary-tree) |
+| [1020-number-of-enclaves](https://github.com/Skagar/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Skagar/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/Skagar/Leetcode/tree/master/1285-balance-a-binary-search-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Skagar/Leetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
@@ -468,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Skagar/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Skagar/Leetcode/tree/master/0994-rotting-oranges) |
 | [1005-univalued-binary-tree](https://github.com/Skagar/Leetcode/tree/master/1005-univalued-binary-tree) |
+| [1020-number-of-enclaves](https://github.com/Skagar/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Skagar/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Skagar/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Counting
@@ -589,6 +593,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [0130-surrounded-regions](https://github.com/Skagar/Leetcode/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/Skagar/Leetcode/tree/master/0547-number-of-provinces) |
+| [1020-number-of-enclaves](https://github.com/Skagar/Leetcode/tree/master/1020-number-of-enclaves) |
 ## Graph Theory
 |  |
 | ------- |
