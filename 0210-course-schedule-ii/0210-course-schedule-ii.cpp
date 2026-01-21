@@ -1,6 +1,9 @@
 class Solution {
 private:
-    void dfs(int node, vector<int>& visit1, map<int, list<int>>& adjlist,
+    // Approach 1: Checking cycle in the graph and if it is not present then
+    // find the ordering
+
+    /*void dfs(int node, vector<int>& visit1, map<int, list<int>>& adjlist,
              stack<int>& st) {
         visit1[node] = 1;
         for (auto i : adjlist[node]) {
@@ -24,11 +27,13 @@ private:
         }
         dfsvisit[node] = 0;
         return false;
-    }
+    }*/
 
 public:
     vector<int> findOrder(int numCourses, vector<vector<int>>& prerequisites) {
-        map<int, list<int>> adjlist;
+        // Approach 1:
+
+        /*map<int, list<int>> adjlist;
         vector<int> visit(numCourses, 0);
         vector<int> visit1(numCourses, 0);
         vector<int> dfsvisit(numCourses, 0);
@@ -63,6 +68,34 @@ public:
             st.pop();
         }
         reverse(ans.begin(), ans.end());
+        return ans;*/
+
+        // Approach 2:using BFS algo
+        map<int, list<int>> adjlist;
+        vector<int> indeg(numCourses, 0);
+        vector<int> ans;
+        queue<int>q;
+        int r = prerequisites.size();
+        for (int i = 0; i < r; i++) {
+            adjlist[prerequisites[i][1]].push_back(prerequisites[i][0]);
+            indeg[prerequisites[i][0]]++;
+        }
+        for (int i = 0; i <numCourses ; i++) {
+            if (indeg[i] == 0)
+                q.push(i);
+        }
+        while (!q.empty()) {
+            int node = q.front();
+            q.pop();
+            ans.push_back(node);
+            for (auto i : adjlist[node]) {
+                indeg[i]--;
+                if (indeg[i] == 0)
+                    q.push(i);
+            }
+        }
+        if(ans.size()!=numCourses)
+        return {};
         return ans;
     }
 };
