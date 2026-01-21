@@ -609,4 +609,5 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0547-number-of-provinces](https://github.com/Skagar/Leetcode/tree/master/0547-number-of-provinces) |
 | [0802-find-eventual-safe-states](https://github.com/Skagar/Leetcode/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/Skagar/Leetcode/tree/master/0841-keys-and-rooms) |
+| [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/Skagar/Leetcode/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 <!---LeetCode Topics End-->
