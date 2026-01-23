@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Skagar/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0130-surrounded-regions](https://github.com/Skagar/Leetcode/tree/master/0130-surrounded-regions) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Skagar/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0200-number-of-islands](https://github.com/Skagar/Leetcode/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Skagar/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/Skagar/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/Skagar/Leetcode/tree/master/0239-sliding-window-maximum) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0054-spiral-matrix](https://github.com/Skagar/Leetcode/tree/master/0054-spiral-matrix) |
 | [0085-maximal-rectangle](https://github.com/Skagar/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/Skagar/Leetcode/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/Skagar/Leetcode/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Skagar/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0542-01-matrix](https://github.com/Skagar/Leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Skagar/Leetcode/tree/master/0733-flood-fill) |
@@ -359,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0130-surrounded-regions](https://github.com/Skagar/Leetcode/tree/master/0130-surrounded-regions) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Skagar/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Skagar/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Skagar/Leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Skagar/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Skagar/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Skagar/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -458,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Skagar/Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0130-surrounded-regions](https://github.com/Skagar/Leetcode/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/Skagar/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Skagar/Leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Skagar/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Skagar/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Skagar/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -600,6 +604,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/Skagar/Leetcode/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/Skagar/Leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Skagar/Leetcode/tree/master/0547-number-of-provinces) |
 | [1020-number-of-enclaves](https://github.com/Skagar/Leetcode/tree/master/1020-number-of-enclaves) |
 ## Graph Theory
