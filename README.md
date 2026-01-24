@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Skagar/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1127-last-stone-weight](https://github.com/Skagar/Leetcode/tree/master/1127-last-stone-weight) |
 | [1200-minimum-absolute-difference](https://github.com/Skagar/Leetcode/tree/master/1200-minimum-absolute-difference) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Skagar/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2058-concatenation-of-array](https://github.com/Skagar/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2227-sum-of-subarray-ranges](https://github.com/Skagar/Leetcode/tree/master/2227-sum-of-subarray-ranges) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/Skagar/Leetcode/tree/master/2696-the-number-of-beautiful-subsets) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Skagar/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0658-find-k-closest-elements](https://github.com/Skagar/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/Skagar/Leetcode/tree/master/0802-k-th-smallest-prime-fraction) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Skagar/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0402-remove-k-digits](https://github.com/Skagar/Leetcode/tree/master/0402-remove-k-digits) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Skagar/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1285-balance-a-binary-search-tree](https://github.com/Skagar/Leetcode/tree/master/1285-balance-a-binary-search-tree) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Skagar/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Sorting
 |  |
 | ------- |
@@ -207,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Skagar/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1200-minimum-absolute-difference](https://github.com/Skagar/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Skagar/Leetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Skagar/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/Skagar/Leetcode/tree/master/2696-the-number-of-beautiful-subsets) |
 ## Design
 |  |
