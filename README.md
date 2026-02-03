@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0001-two-sum](https://github.com/Skagar/Leetcode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Skagar/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Skagar/Leetcode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Skagar/Leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Skagar/Leetcode/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/Skagar/Leetcode/tree/master/0027-remove-element) |
 | [0039-combination-sum](https://github.com/Skagar/Leetcode/tree/master/0039-combination-sum) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Skagar/Leetcode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Skagar/Leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Skagar/Leetcode/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/Skagar/Leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Skagar/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Skagar/Leetcode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Skagar/Leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Skagar/Leetcode/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/Skagar/Leetcode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/Skagar/Leetcode/tree/master/0088-merge-sorted-array) |
