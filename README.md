@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [2696-the-number-of-beautiful-subsets](https://github.com/Skagar/Leetcode/tree/master/2696-the-number-of-beautiful-subsets) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Skagar/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Skagar/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3379-transformed-array](https://github.com/Skagar/Leetcode/tree/master/3379-transformed-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Skagar/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3637-trionic-array-i](https://github.com/Skagar/Leetcode/tree/master/3637-trionic-array-i) |
 ## Hash Table
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0735-asteroid-collision](https://github.com/Skagar/Leetcode/tree/master/0735-asteroid-collision) |
 | [2058-concatenation-of-array](https://github.com/Skagar/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Skagar/Leetcode/tree/master/2288-count-operations-to-obtain-zero) |
+| [3379-transformed-array](https://github.com/Skagar/Leetcode/tree/master/3379-transformed-array) |
 ## String
 |  |
 | ------- |
