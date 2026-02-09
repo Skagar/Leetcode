@@ -340,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0137-single-number-ii](https://github.com/Skagar/Leetcode/tree/master/0137-single-number-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/Skagar/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0389-find-the-difference](https://github.com/Skagar/Leetcode/tree/master/0389-find-the-difference) |
+| [3827-count-monobit-integers](https://github.com/Skagar/Leetcode/tree/master/3827-count-monobit-integers) |
 ## Math
 |  |
 | ------- |
@@ -731,4 +732,5 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Skagar/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3827-count-monobit-integers](https://github.com/Skagar/Leetcode/tree/master/3827-count-monobit-integers) |
 <!---LeetCode Topics End-->
