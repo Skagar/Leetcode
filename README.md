@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0735-asteroid-collision](https://github.com/Skagar/Leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Skagar/Leetcode/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Skagar/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0766-toeplitz-matrix](https://github.com/Skagar/Leetcode/tree/master/0766-toeplitz-matrix) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/Skagar/Leetcode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0904-fruit-into-baskets](https://github.com/Skagar/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0943-sum-of-subarray-minimums](https://github.com/Skagar/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0542-01-matrix](https://github.com/Skagar/Leetcode/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/Skagar/Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Skagar/Leetcode/tree/master/0733-flood-fill) |
+| [0766-toeplitz-matrix](https://github.com/Skagar/Leetcode/tree/master/0766-toeplitz-matrix) |
 | [0994-rotting-oranges](https://github.com/Skagar/Leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Skagar/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Skagar/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
