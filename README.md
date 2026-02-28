@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0542-01-matrix](https://github.com/Skagar/Leetcode/tree/master/0542-01-matrix) |
 | [0594-longest-harmonious-subsequence](https://github.com/Skagar/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Skagar/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0643-maximum-average-subarray-i](https://github.com/Skagar/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0654-maximum-binary-tree](https://github.com/Skagar/Leetcode/tree/master/0654-maximum-binary-tree) |
 | [0658-find-k-closest-elements](https://github.com/Skagar/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0695-max-area-of-island](https://github.com/Skagar/Leetcode/tree/master/0695-max-area-of-island) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0239-sliding-window-maximum](https://github.com/Skagar/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0594-longest-harmonious-subsequence](https://github.com/Skagar/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Skagar/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0643-maximum-average-subarray-i](https://github.com/Skagar/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/Skagar/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0904-fruit-into-baskets](https://github.com/Skagar/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Skagar/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
