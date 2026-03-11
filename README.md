@@ -362,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0222-count-complete-tree-nodes](https://github.com/Skagar/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0389-find-the-difference](https://github.com/Skagar/Leetcode/tree/master/0389-find-the-difference) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Skagar/Leetcode/tree/master/0693-binary-number-with-alternating-bits) |
+| [1009-complement-of-base-10-integer](https://github.com/Skagar/Leetcode/tree/master/1009-complement-of-base-10-integer) |
 | [3827-count-monobit-integers](https://github.com/Skagar/Leetcode/tree/master/3827-count-monobit-integers) |
 ## Math
 |  |
