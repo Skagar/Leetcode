@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [0022-generate-parentheses](https://github.com/Skagar/Leetcode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Skagar/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0062-unique-paths](https://github.com/Skagar/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Skagar/Leetcode/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/Skagar/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0198-house-robber](https://github.com/Skagar/Leetcode/tree/master/0198-house-robber) |
@@ -374,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Skagar/Leetcode/tree/master/0002-add-two-numbers) |
+| [0062-unique-paths](https://github.com/Skagar/Leetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Skagar/Leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Skagar/Leetcode/tree/master/0070-climbing-stairs) |
 | [1014-k-closest-points-to-origin](https://github.com/Skagar/Leetcode/tree/master/1014-k-closest-points-to-origin) |
@@ -385,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Skagar/Leetcode/tree/master/0062-unique-paths) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/Skagar/Leetcode/tree/master/2696-the-number-of-beautiful-subsets) |
 ## Tree
 |  |
