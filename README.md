@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0349-intersection-of-two-arrays](https://github.com/Skagar/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Skagar/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Skagar/Leetcode/tree/master/0389-find-the-difference) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Skagar/Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Skagar/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Skagar/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/Skagar/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Skagar/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0389-find-the-difference](https://github.com/Skagar/Leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Skagar/Leetcode/tree/master/0392-is-subsequence) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Skagar/Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0402-remove-k-digits](https://github.com/Skagar/Leetcode/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/Skagar/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Skagar/Leetcode/tree/master/0451-sort-characters-by-frequency) |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0209-minimum-size-subarray-sum](https://github.com/Skagar/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Skagar/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/Skagar/Leetcode/tree/master/0239-sliding-window-maximum) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Skagar/Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Skagar/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0594-longest-harmonious-subsequence](https://github.com/Skagar/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Skagar/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -643,6 +646,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Skagar/Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Skagar/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Skagar/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Skagar/Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0654-maximum-binary-tree](https://github.com/Skagar/Leetcode/tree/master/0654-maximum-binary-tree) |
 | [0948-sort-an-array](https://github.com/Skagar/Leetcode/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/Skagar/Leetcode/tree/master/1014-k-closest-points-to-origin) |
