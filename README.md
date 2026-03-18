@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Skagar/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/Skagar/Leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Skagar/Leetcode/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/Skagar/Leetcode/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/Skagar/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/Skagar/Leetcode/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Skagar/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -395,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0062-unique-paths](https://github.com/Skagar/Leetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Skagar/Leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Skagar/Leetcode/tree/master/0070-climbing-stairs) |
+| [0204-count-primes](https://github.com/Skagar/Leetcode/tree/master/0204-count-primes) |
 | [1014-k-closest-points-to-origin](https://github.com/Skagar/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Skagar/Leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Skagar/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -804,10 +806,15 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Skagar/Leetcode/tree/master/0204-count-primes) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Skagar/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3827-count-monobit-integers](https://github.com/Skagar/Leetcode/tree/master/3827-count-monobit-integers) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Skagar/Leetcode/tree/master/0070-climbing-stairs) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Skagar/Leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
