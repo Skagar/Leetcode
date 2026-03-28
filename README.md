@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Skagar/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0766-toeplitz-matrix](https://github.com/Skagar/Leetcode/tree/master/0766-toeplitz-matrix) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/Skagar/Leetcode/tree/master/0802-k-th-smallest-prime-fraction) |
+| [0860-lemonade-change](https://github.com/Skagar/Leetcode/tree/master/0860-lemonade-change) |
 | [0904-fruit-into-baskets](https://github.com/Skagar/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Skagar/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0943-sum-of-subarray-minimums](https://github.com/Skagar/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0402-remove-k-digits](https://github.com/Skagar/Leetcode/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/Skagar/Leetcode/tree/master/0455-assign-cookies) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Skagar/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0860-lemonade-change](https://github.com/Skagar/Leetcode/tree/master/0860-lemonade-change) |
 | [1285-balance-a-binary-search-tree](https://github.com/Skagar/Leetcode/tree/master/1285-balance-a-binary-search-tree) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Skagar/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Sorting
