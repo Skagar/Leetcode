@@ -6,18 +6,28 @@ public:
         int n = g.size();
         int m = s.size();
         int cnt = 0;
-        for (int i = 0; i < n; i++) {
-            bool flag = false;
-            for (int j = 0; j < m; j++) {
-                if (s[j] != -1 && s[j] >= g[i]) {
-                    cnt++;
-                    s[j] = -1;
-                    flag = true;
-                    break;
-                }
-            }
-            if (flag == false)
-                break;
+        /* for (int i = 0; i < n; i++) {
+               bool flag = false;
+               for (int j = 0; j < m; j++) {
+                   if (s[j] != -1 && s[j] >= g[i]) {
+                       cnt++;
+                       s[j] = -1;
+                       flag = true;
+                       break;
+                   }
+               }
+               if (flag == false)
+                   break;
+           }*/
+        int l = 0;
+        int r = 0;
+        while (l < n && r < m) {
+            if (s[r] >= g[l]) {
+                cnt++;
+                l++;
+                r++;
+            } else
+                r++;
         }
         return cnt;
     }
