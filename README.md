@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [3379-transformed-array](https://github.com/Skagar/Leetcode/tree/master/3379-transformed-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Skagar/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3637-trionic-array-i](https://github.com/Skagar/Leetcode/tree/master/3637-trionic-array-i) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/Skagar/Leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [2058-concatenation-of-array](https://github.com/Skagar/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Skagar/Leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [3379-transformed-array](https://github.com/Skagar/Leetcode/tree/master/3379-transformed-array) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/Skagar/Leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## String
 |  |
 | ------- |
@@ -665,6 +667,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0948-sort-an-array](https://github.com/Skagar/Leetcode/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/Skagar/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1285-balance-a-binary-search-tree](https://github.com/Skagar/Leetcode/tree/master/1285-balance-a-binary-search-tree) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/Skagar/Leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Binary Search Tree
 |  |
 | ------- |
