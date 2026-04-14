@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0350-intersection-of-two-arrays-ii](https://github.com/Skagar/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Skagar/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/Skagar/Leetcode/tree/master/0414-third-maximum-number) |
+| [0416-partition-equal-subset-sum](https://github.com/Skagar/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0419-battleships-in-a-board](https://github.com/Skagar/Leetcode/tree/master/0419-battleships-in-a-board) |
 | [0455-assign-cookies](https://github.com/Skagar/Leetcode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Skagar/Leetcode/tree/master/0485-max-consecutive-ones) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0198-house-robber](https://github.com/Skagar/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Skagar/Leetcode/tree/master/0213-house-robber-ii) |
 | [0392-is-subsequence](https://github.com/Skagar/Leetcode/tree/master/0392-is-subsequence) |
+| [0416-partition-equal-subset-sum](https://github.com/Skagar/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0542-01-matrix](https://github.com/Skagar/Leetcode/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Skagar/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0943-sum-of-subarray-minimums](https://github.com/Skagar/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
