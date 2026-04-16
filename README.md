@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0064-minimum-path-sum](https://github.com/Skagar/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Skagar/Leetcode/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/Skagar/Leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Skagar/Leetcode/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Skagar/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Skagar/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Skagar/Leetcode/tree/master/0085-maximal-rectangle) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Skagar/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/Skagar/Leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Skagar/Leetcode/tree/master/0058-length-of-last-word) |
+| [0079-word-search](https://github.com/Skagar/Leetcode/tree/master/0079-word-search) |
 | [0127-word-ladder](https://github.com/Skagar/Leetcode/tree/master/0127-word-ladder) |
 | [0242-valid-anagram](https://github.com/Skagar/Leetcode/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Skagar/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -373,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0054-spiral-matrix](https://github.com/Skagar/Leetcode/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/Skagar/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Skagar/Leetcode/tree/master/0064-minimum-path-sum) |
+| [0079-word-search](https://github.com/Skagar/Leetcode/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/Skagar/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/Skagar/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Skagar/Leetcode/tree/master/0200-number-of-islands) |
@@ -395,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0046-permutations](https://github.com/Skagar/Leetcode/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/Skagar/Leetcode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Skagar/Leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Skagar/Leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Skagar/Leetcode/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/Skagar/Leetcode/tree/master/0113-path-sum-ii) |
 | [0797-all-paths-from-source-to-target](https://github.com/Skagar/Leetcode/tree/master/0797-all-paths-from-source-to-target) |
@@ -491,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Skagar/Leetcode/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Skagar/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/Skagar/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Skagar/Leetcode/tree/master/0099-recover-binary-search-tree) |
