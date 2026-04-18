@@ -429,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [2288-count-operations-to-obtain-zero](https://github.com/Skagar/Leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/Skagar/Leetcode/tree/master/2696-the-number-of-beautiful-subsets) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Skagar/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3783-mirror-distance-of-an-integer](https://github.com/Skagar/Leetcode/tree/master/3783-mirror-distance-of-an-integer) |
 ## Combinatorics
 |  |
 | ------- |
