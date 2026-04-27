@@ -9,13 +9,6 @@ public:
         mp['X'] = 10;
         mp['V'] = 5;
         mp['I'] = 1;
-        map<string, int> mpp;
-        mpp["CM"] = 900;
-        mpp["CD"] = 400;
-        mpp["XC"] = 90;
-        mpp["XL"] = 40;
-        mpp["IX"] = 9;
-        mpp["IV"] = 4;
         int len = s.length();
         int sum = 0;
         int i = 0;
