@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1091-shortest-path-in-binary-matrix](https://github.com/Skagar/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1127-last-stone-weight](https://github.com/Skagar/Leetcode/tree/master/1127-last-stone-weight) |
 | [1200-minimum-absolute-difference](https://github.com/Skagar/Leetcode/tree/master/1200-minimum-absolute-difference) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Skagar/Leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Skagar/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1470-shuffle-the-array](https://github.com/Skagar/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1514-path-with-maximum-probability](https://github.com/Skagar/Leetcode/tree/master/1514-path-with-maximum-probability) |
@@ -404,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0994-rotting-oranges](https://github.com/Skagar/Leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Skagar/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Skagar/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Skagar/Leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Skagar/Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1631-path-with-minimum-effort](https://github.com/Skagar/Leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Backtracking
@@ -572,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Skagar/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/Skagar/Leetcode/tree/master/1285-balance-a-binary-search-tree) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Skagar/Leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Skagar/Leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Skagar/Leetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Skagar/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Skagar/Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -677,6 +680,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Skagar/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Skagar/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Skagar/Leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Skagar/Leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Skagar/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Skagar/Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1631-path-with-minimum-effort](https://github.com/Skagar/Leetcode/tree/master/1631-path-with-minimum-effort) |
@@ -824,6 +828,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0695-max-area-of-island](https://github.com/Skagar/Leetcode/tree/master/0695-max-area-of-island) |
 | [1020-number-of-enclaves](https://github.com/Skagar/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Skagar/Leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Skagar/Leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Skagar/Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1631-path-with-minimum-effort](https://github.com/Skagar/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Skagar/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
