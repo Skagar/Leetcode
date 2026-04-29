@@ -17,8 +17,19 @@ class Solution {
 public:
     int jump(vector<int>& nums) {
         int n = nums.size();
-        int ans = INT_MAX;
+        /* vector<int> dp(n, -1);
+        return calminjumps(0, n, nums, dp);*/
         vector<int> dp(n, -1);
-        return calminjumps(0, n, nums, dp);
+        dp[n - 1] = 0;
+        for (int ind = n - 2; ind >= 0; ind--) {
+            int ans = 1e9;
+            int val = nums[ind];
+            for (int i = 1; i <= val; i++) {
+                if (ind + i < n)
+                    ans = min(ans, 1 + dp[ind + i]);
+            }
+            dp[ind] = ans;
+        }
+        return dp[0];
     }
 };
