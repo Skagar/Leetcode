@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0349-intersection-of-two-arrays](https://github.com/Skagar/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Skagar/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Skagar/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0396-rotate-function](https://github.com/Skagar/Leetcode/tree/master/0396-rotate-function) |
 | [0414-third-maximum-number](https://github.com/Skagar/Leetcode/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/Skagar/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0419-battleships-in-a-board](https://github.com/Skagar/Leetcode/tree/master/0419-battleships-in-a-board) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0322-coin-change](https://github.com/Skagar/Leetcode/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/Skagar/Leetcode/tree/master/0337-house-robber-iii) |
 | [0392-is-subsequence](https://github.com/Skagar/Leetcode/tree/master/0392-is-subsequence) |
+| [0396-rotate-function](https://github.com/Skagar/Leetcode/tree/master/0396-rotate-function) |
 | [0416-partition-equal-subset-sum](https://github.com/Skagar/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Skagar/Leetcode/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/Skagar/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
@@ -459,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0066-plus-one](https://github.com/Skagar/Leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Skagar/Leetcode/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/Skagar/Leetcode/tree/master/0204-count-primes) |
+| [0396-rotate-function](https://github.com/Skagar/Leetcode/tree/master/0396-rotate-function) |
 | [1014-k-closest-points-to-origin](https://github.com/Skagar/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Skagar/Leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Skagar/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
