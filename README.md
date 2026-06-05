@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0658-find-k-closest-elements](https://github.com/Skagar/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0695-max-area-of-island](https://github.com/Skagar/Leetcode/tree/master/0695-max-area-of-island) |
 | [0713-subarray-product-less-than-k](https://github.com/Skagar/Leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Skagar/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0733-flood-fill](https://github.com/Skagar/Leetcode/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/Skagar/Leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Skagar/Leetcode/tree/master/0739-daily-temperatures) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0516-longest-palindromic-subsequence](https://github.com/Skagar/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Skagar/Leetcode/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/Skagar/Leetcode/tree/master/0542-01-matrix) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Skagar/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0746-min-cost-climbing-stairs](https://github.com/Skagar/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Skagar/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0943-sum-of-subarray-minimums](https://github.com/Skagar/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
@@ -319,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0402-remove-k-digits](https://github.com/Skagar/Leetcode/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/Skagar/Leetcode/tree/master/0455-assign-cookies) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Skagar/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Skagar/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0860-lemonade-change](https://github.com/Skagar/Leetcode/tree/master/0860-lemonade-change) |
 | [1285-balance-a-binary-search-tree](https://github.com/Skagar/Leetcode/tree/master/1285-balance-a-binary-search-tree) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Skagar/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
