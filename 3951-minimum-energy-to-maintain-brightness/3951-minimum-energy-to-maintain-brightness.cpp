@@ -1,7 +1,7 @@
 class Solution {
 public:
     long long minEnergy(int n, int brightness, vector<vector<int>>& intervals) {
-        int minbulbs = ceil((brightness + 2) / 3);
+        int minbulbs = ceil((double)brightness/3);
         int m = intervals.size();
         int i = 0;
         int j = 1;
@@ -23,7 +23,6 @@ public:
                 len += (long long)(intervals[i][1] - intervals[i][0] + 1);
             }
         }
-        cout << minbulbs << " " << len << endl;
         return minbulbs * len * 1LL;
     }
 };
