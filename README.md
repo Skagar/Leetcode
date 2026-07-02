@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Skagar/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Skagar/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Skagar/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Skagar/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3379-transformed-array](https://github.com/Skagar/Leetcode/tree/master/3379-transformed-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Skagar/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Skagar/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -459,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1514-path-with-maximum-probability](https://github.com/Skagar/Leetcode/tree/master/1514-path-with-maximum-probability) |
 | [1631-path-with-minimum-effort](https://github.com/Skagar/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Skagar/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Skagar/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -486,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1559-detect-cycles-in-2d-grid](https://github.com/Skagar/Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1631-path-with-minimum-effort](https://github.com/Skagar/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Skagar/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Skagar/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Skagar/Leetcode/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Backtracking
 |  |
@@ -770,6 +773,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1631-path-with-minimum-effort](https://github.com/Skagar/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Skagar/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Skagar/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Skagar/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Counting
 |  |
 | ------- |
@@ -940,6 +944,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1791-find-center-of-star-graph](https://github.com/Skagar/Leetcode/tree/master/1791-find-center-of-star-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Skagar/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Skagar/Leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Skagar/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## String Matching
 |  |
 | ------- |
@@ -952,6 +957,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Skagar/Leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1514-path-with-maximum-probability](https://github.com/Skagar/Leetcode/tree/master/1514-path-with-maximum-probability) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Skagar/Leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Skagar/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Prefix Sum
 |  |
 | ------- |
