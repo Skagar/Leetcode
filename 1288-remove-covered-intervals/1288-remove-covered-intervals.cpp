@@ -2,14 +2,6 @@ class Solution {
 public:
     int removeCoveredIntervals(vector<vector<int>>& intervals) {
         sort(intervals.begin(), intervals.end());
-        for(auto i:intervals)
-        {
-            for(auto j:i)
-            {
-                cout<<j<<" ";
-            }
-            cout<<endl;
-        }
         int n = intervals.size();
         int i = 0;
         int cnt = 0;
