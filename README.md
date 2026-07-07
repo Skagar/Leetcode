@@ -545,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [2696-the-number-of-beautiful-subsets](https://github.com/Skagar/Leetcode/tree/master/2696-the-number-of-beautiful-subsets) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Skagar/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Skagar/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Skagar/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Skagar/Leetcode/tree/master/3783-mirror-distance-of-an-integer) |
 ## Combinatorics
 |  |
