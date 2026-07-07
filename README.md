@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0506-relative-ranks](https://github.com/Skagar/Leetcode/tree/master/0506-relative-ranks) |
 | [0518-coin-change-ii](https://github.com/Skagar/Leetcode/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/Skagar/Leetcode/tree/master/0542-01-matrix) |
+| [0560-subarray-sum-equals-k](https://github.com/Skagar/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/Skagar/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Skagar/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/Skagar/Leetcode/tree/master/0643-maximum-average-subarray-i) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Skagar/Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Skagar/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Skagar/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0560-subarray-sum-equals-k](https://github.com/Skagar/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/Skagar/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Skagar/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Skagar/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -987,6 +989,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Skagar/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/Skagar/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/Skagar/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/Skagar/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Skagar/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
