@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0063-unique-paths-ii](https://github.com/Skagar/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Skagar/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Skagar/Leetcode/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/Skagar/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Skagar/Leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Skagar/Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Skagar/Leetcode/tree/master/0079-word-search) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0012-integer-to-roman](https://github.com/Skagar/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Skagar/Leetcode/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/Skagar/Leetcode/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/Skagar/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Skagar/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Skagar/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0127-word-ladder](https://github.com/Skagar/Leetcode/tree/master/0127-word-ladder) |
@@ -490,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0059-spiral-matrix-ii](https://github.com/Skagar/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/Skagar/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Skagar/Leetcode/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/Skagar/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/Skagar/Leetcode/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/Skagar/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/Skagar/Leetcode/tree/master/0130-surrounded-regions) |
