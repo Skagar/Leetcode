@@ -1,38 +1,63 @@
 class Solution {
 public:
     vector<int> spiralOrder(vector<vector<int>>& matrix) {
-        int r=matrix.size();
-        int c=matrix[0].size();
-        int total=r*c;
-        int count=0;
-        int sr=0,sc=0,er=r-1,ec=c-1;
-        vector<int>ans;
-        while(count<total)
-        {
-           for(int i=sc;i<=ec && count<total;i++)//starting row
-           {
-            ans.push_back(matrix[sr][i]);
-            count++;
-           }  
-           sr++;
-            for(int i=sr;i<=er && count<total;i++)//ending column
-           {
-            ans.push_back(matrix[i][ec]);
-            count++;
-           }  
-           ec--;
-            for(int i=ec;i>=sc && count<total;i--)//ending row
-           {
-            ans.push_back(matrix[er][i]);
-            count++;
-           }  
-           er--;
-            for(int i=er;i>=sr && count<total;i--)//starting column
-           {
-            ans.push_back(matrix[i][sc]);
-            count++;
-           }  
-           sc++;              
+        int m = matrix.size();
+        int n = matrix[0].size();
+        vector<vector<int>> vis(m, vector<int>(n, -1));
+        int r = 0, c = 0;
+        bool ci = true, rc = true, cc = false, cd = false, ri = false,
+             rd = false;
+        vector<int> ans;
+        while (r < m && c < n && r >= 0 && c >= 0 && vis[r][c] == -1) {
+            if (rc == true && ci == true) {
+                rc = false;
+                ci = false;
+                cc = true;
+                ri = true;
+                while (c < n && vis[r][c] == -1) {
+                    ans.push_back(matrix[r][c]);
+                    vis[r][c] = 1;
+                    c++;
+                }
+                c--;
+                r++;
+            } else if (cc == true && ri == true) {
+                cc = false;
+                ri = false;
+                rc = true;
+                cd = true;
+                while (r < m && vis[r][c]==-1) {
+                    ans.push_back(matrix[r][c]);
+                    vis[r][c] = 1;
+                    r++;
+                }
+                r--;
+                c--;
+            } else if (rc == true && cd == true) {
+                rc = false;
+                cd = false;
+                cc = true;
+                rd = true;
+                while (c >= 0 && vis[r][c] == -1) {
+                    ans.push_back(matrix[r][c]);
+                    vis[r][c] = 1;
+                    c--;
+                }
+                c++;
+                r--;
+            } else if (cc == true && rd == true) {
+                cc = false;
+                rd = false;
+                rc = true;
+                ci = true;
+                while (r >= 0 && vis[r][c] == -1) {
+                    ans.push_back(matrix[r][c]);
+                    vis[r][c] = 1;
+                    r--;
+                }
+                r++;
+                c++;
+            }
         }
         return ans;
     }
