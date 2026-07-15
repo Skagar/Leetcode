@@ -3,7 +3,7 @@ public:
     vector<int> spiralOrder(vector<vector<int>>& matrix) {
         int m = matrix.size();
         int n = matrix[0].size();
-        vector<vector<int>> vis(m, vector<int>(n, -1));
+       /* vector<vector<int>> vis(m, vector<int>(n, -1));
         int r = 0, c = 0;
         bool ci = true, rc = true, cc = false, cd = false, ri = false,
              rd = false;
@@ -58,6 +58,39 @@ public:
                 r++;
                 c++;
             }
+        }
+        return ans;*/
+
+        int cnt=0;
+        int total=m*n;
+        int sr=0,sc=0,er=m-1,ec=n-1;
+        vector<int> ans;
+        while(cnt<total)
+        {
+            for(int j=sc;j<=ec && cnt<total;j++)
+            {
+                ans.push_back(matrix[sr][j]);
+                cnt++;
+            }
+            sr++;
+            for(int i=sr;i<=er && cnt<total;i++)
+            {
+                ans.push_back(matrix[i][ec]);
+                cnt++;
+            }
+            ec--;
+            for(int j=ec;j>=sc && cnt<total;j--)
+            {
+                ans.push_back(matrix[er][j]);
+                cnt++;
+            }
+            er--;
+            for(int i=er;i>=sr && cnt<total;i--)
+            {
+                ans.push_back(matrix[i][sc]);
+                cnt++;
+            }
+            sc++;
         }
         return ans;
     }
