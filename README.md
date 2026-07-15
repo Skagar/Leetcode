@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0045-jump-game-ii](https://github.com/Skagar/Leetcode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Skagar/Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Skagar/Leetcode/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/Skagar/Leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Skagar/Leetcode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/Skagar/Leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Skagar/Leetcode/tree/master/0055-jump-game) |
@@ -490,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Skagar/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Skagar/Leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Skagar/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/Skagar/Leetcode/tree/master/0063-unique-paths-ii) |
@@ -548,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0002-add-two-numbers](https://github.com/Skagar/Leetcode/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/Skagar/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Skagar/Leetcode/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/Skagar/Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Skagar/Leetcode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Skagar/Leetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Skagar/Leetcode/tree/master/0066-plus-one) |
