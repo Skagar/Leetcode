@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Skagar/Leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Skagar/Leetcode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Skagar/Leetcode/tree/master/3742-maximum-path-score-in-a-grid) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Skagar/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Skagar/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Skagar/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Skagar/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Skagar/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -318,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [2288-count-operations-to-obtain-zero](https://github.com/Skagar/Leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [3379-transformed-array](https://github.com/Skagar/Leetcode/tree/master/3379-transformed-array) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Skagar/Leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Skagar/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
 |  |
 | ------- |
@@ -422,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [2696-the-number-of-beautiful-subsets](https://github.com/Skagar/Leetcode/tree/master/2696-the-number-of-beautiful-subsets) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Skagar/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Skagar/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Skagar/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Design
 |  |
 | ------- |
@@ -569,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Skagar/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Skagar/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Skagar/Leetcode/tree/master/3783-mirror-distance-of-an-integer) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Skagar/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Combinatorics
 |  |
 | ------- |
@@ -1031,6 +1036,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [0204-count-primes](https://github.com/Skagar/Leetcode/tree/master/0204-count-primes) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Skagar/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Skagar/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Indexed Tree
 |  |
 | ------- |
