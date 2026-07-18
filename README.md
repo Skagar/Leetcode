@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Skagar/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Skagar/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Skagar/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Skagar/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Skagar/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2058-concatenation-of-array](https://github.com/Skagar/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Skagar/Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -569,6 +570,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1014-k-closest-points-to-origin](https://github.com/Skagar/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Skagar/Leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Skagar/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Skagar/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Skagar/Leetcode/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Skagar/Leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/Skagar/Leetcode/tree/master/2696-the-number-of-beautiful-subsets) |
@@ -1040,6 +1042,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Skagar/Leetcode/tree/master/0204-count-primes) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Skagar/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Skagar/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Skagar/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Indexed Tree
