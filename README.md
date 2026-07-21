@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1091-shortest-path-in-binary-matrix](https://github.com/Skagar/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1127-last-stone-weight](https://github.com/Skagar/Leetcode/tree/master/1127-last-stone-weight) |
 | [1200-minimum-absolute-difference](https://github.com/Skagar/Leetcode/tree/master/1200-minimum-absolute-difference) |
+| [1260-shift-2d-grid](https://github.com/Skagar/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Skagar/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Skagar/Leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Skagar/Leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -318,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0054-spiral-matrix](https://github.com/Skagar/Leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Skagar/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0735-asteroid-collision](https://github.com/Skagar/Leetcode/tree/master/0735-asteroid-collision) |
+| [1260-shift-2d-grid](https://github.com/Skagar/Leetcode/tree/master/1260-shift-2d-grid) |
 | [2058-concatenation-of-array](https://github.com/Skagar/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Skagar/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Skagar/Leetcode/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
@@ -519,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0994-rotting-oranges](https://github.com/Skagar/Leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Skagar/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Skagar/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1260-shift-2d-grid](https://github.com/Skagar/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Skagar/Leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Skagar/Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1631-path-with-minimum-effort](https://github.com/Skagar/Leetcode/tree/master/1631-path-with-minimum-effort) |
