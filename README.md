@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Skagar/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3379-transformed-array](https://github.com/Skagar/Leetcode/tree/master/3379-transformed-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Skagar/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Skagar/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Skagar/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/Skagar/Leetcode/tree/master/3620-network-recovery-pathways) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Skagar/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -557,6 +558,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0389-find-the-difference](https://github.com/Skagar/Leetcode/tree/master/0389-find-the-difference) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Skagar/Leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 | [1009-complement-of-base-10-integer](https://github.com/Skagar/Leetcode/tree/master/1009-complement-of-base-10-integer) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Skagar/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3827-count-monobit-integers](https://github.com/Skagar/Leetcode/tree/master/3827-count-monobit-integers) |
 ## Math
 |  |
@@ -581,6 +583,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [2288-count-operations-to-obtain-zero](https://github.com/Skagar/Leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/Skagar/Leetcode/tree/master/2696-the-number-of-beautiful-subsets) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Skagar/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Skagar/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Skagar/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Skagar/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Skagar/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
