@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0766-toeplitz-matrix](https://github.com/Skagar/Leetcode/tree/master/0766-toeplitz-matrix) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/Skagar/Leetcode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0860-lemonade-change](https://github.com/Skagar/Leetcode/tree/master/0860-lemonade-change) |
+| [0877-stone-game](https://github.com/Skagar/Leetcode/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/Skagar/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Skagar/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0943-sum-of-subarray-minimums](https://github.com/Skagar/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Skagar/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0746-min-cost-climbing-stairs](https://github.com/Skagar/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Skagar/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0877-stone-game](https://github.com/Skagar/Leetcode/tree/master/0877-stone-game) |
 | [0943-sum-of-subarray-minimums](https://github.com/Skagar/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [1048-longest-string-chain](https://github.com/Skagar/Leetcode/tree/master/1048-longest-string-chain) |
 | [1143-longest-common-subsequence](https://github.com/Skagar/Leetcode/tree/master/1143-longest-common-subsequence) |
@@ -589,6 +591,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0396-rotate-function](https://github.com/Skagar/Leetcode/tree/master/0396-rotate-function) |
 | [0445-add-two-numbers-ii](https://github.com/Skagar/Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Skagar/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/Skagar/Leetcode/tree/master/0877-stone-game) |
 | [1014-k-closest-points-to-origin](https://github.com/Skagar/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Skagar/Leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Skagar/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -1080,4 +1083,8 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Skagar/Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Skagar/Leetcode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
