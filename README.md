@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0419-battleships-in-a-board](https://github.com/Skagar/Leetcode/tree/master/0419-battleships-in-a-board) |
 | [0455-assign-cookies](https://github.com/Skagar/Leetcode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Skagar/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0493-reverse-pairs](https://github.com/Skagar/Leetcode/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/Skagar/Leetcode/tree/master/0494-target-sum) |
 | [0503-next-greater-element-ii](https://github.com/Skagar/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/Skagar/Leetcode/tree/master/0506-relative-ranks) |
@@ -873,6 +874,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0215-kth-largest-element-in-an-array](https://github.com/Skagar/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Skagar/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Skagar/Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0493-reverse-pairs](https://github.com/Skagar/Leetcode/tree/master/0493-reverse-pairs) |
 | [0654-maximum-binary-tree](https://github.com/Skagar/Leetcode/tree/master/0654-maximum-binary-tree) |
 | [0948-sort-an-array](https://github.com/Skagar/Leetcode/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/Skagar/Leetcode/tree/master/1014-k-closest-points-to-origin) |
@@ -895,6 +897,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0350-intersection-of-two-arrays-ii](https://github.com/Skagar/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Skagar/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0450-delete-node-in-a-bst](https://github.com/Skagar/Leetcode/tree/master/0450-delete-node-in-a-bst) |
+| [0493-reverse-pairs](https://github.com/Skagar/Leetcode/tree/master/0493-reverse-pairs) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Skagar/Leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Skagar/Leetcode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Skagar/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -962,6 +965,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Skagar/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0493-reverse-pairs](https://github.com/Skagar/Leetcode/tree/master/0493-reverse-pairs) |
 | [0948-sort-an-array](https://github.com/Skagar/Leetcode/tree/master/0948-sort-an-array) |
 ## Radix Sort
 |  |
@@ -1078,13 +1082,23 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/Skagar/Leetcode/tree/master/0493-reverse-pairs) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Skagar/Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 ## Segment Tree
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/Skagar/Leetcode/tree/master/0493-reverse-pairs) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Skagar/Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 ## Game Theory
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Skagar/Leetcode/tree/master/0877-stone-game) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Skagar/Leetcode/tree/master/0493-reverse-pairs) |
+## Treap
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Skagar/Leetcode/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
