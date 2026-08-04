@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1127-last-stone-weight](https://github.com/Skagar/Leetcode/tree/master/1127-last-stone-weight) |
 | [1200-minimum-absolute-difference](https://github.com/Skagar/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1260-shift-2d-grid](https://github.com/Skagar/Leetcode/tree/master/1260-shift-2d-grid) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Skagar/Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1288-remove-covered-intervals](https://github.com/Skagar/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Skagar/Leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Skagar/Leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -912,6 +913,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0975-range-sum-of-bst](https://github.com/Skagar/Leetcode/tree/master/0975-range-sum-of-bst) |
 | [1004-max-consecutive-ones-iii](https://github.com/Skagar/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Skagar/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Skagar/Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1285-balance-a-binary-search-tree](https://github.com/Skagar/Leetcode/tree/master/1285-balance-a-binary-search-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Skagar/Leetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1631-path-with-minimum-effort](https://github.com/Skagar/Leetcode/tree/master/1631-path-with-minimum-effort) |
