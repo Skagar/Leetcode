@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Skagar/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Skagar/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1127-last-stone-weight](https://github.com/Skagar/Leetcode/tree/master/1127-last-stone-weight) |
+| [1140-stone-game-ii](https://github.com/Skagar/Leetcode/tree/master/1140-stone-game-ii) |
 | [1200-minimum-absolute-difference](https://github.com/Skagar/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1260-shift-2d-grid](https://github.com/Skagar/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Skagar/Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0877-stone-game](https://github.com/Skagar/Leetcode/tree/master/0877-stone-game) |
 | [0943-sum-of-subarray-minimums](https://github.com/Skagar/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [1048-longest-string-chain](https://github.com/Skagar/Leetcode/tree/master/1048-longest-string-chain) |
+| [1140-stone-game-ii](https://github.com/Skagar/Leetcode/tree/master/1140-stone-game-ii) |
 | [1143-longest-common-subsequence](https://github.com/Skagar/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Skagar/Leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Skagar/Leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -599,6 +601,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0628-maximum-product-of-three-numbers](https://github.com/Skagar/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Skagar/Leetcode/tree/master/0877-stone-game) |
 | [1014-k-closest-points-to-origin](https://github.com/Skagar/Leetcode/tree/master/1014-k-closest-points-to-origin) |
+| [1140-stone-game-ii](https://github.com/Skagar/Leetcode/tree/master/1140-stone-game-ii) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Skagar/Leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Skagar/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Skagar/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -1070,6 +1073,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0713-subarray-product-less-than-k](https://github.com/Skagar/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/Skagar/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Skagar/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1140-stone-game-ii](https://github.com/Skagar/Leetcode/tree/master/1140-stone-game-ii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Skagar/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Enumeration
 |  |
@@ -1104,6 +1108,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Skagar/Leetcode/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Skagar/Leetcode/tree/master/1140-stone-game-ii) |
 ## Ordered Set
 |  |
 | ------- |
@@ -1112,4 +1117,12 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Skagar/Leetcode/tree/master/0493-reverse-pairs) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/Skagar/Leetcode/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/Skagar/Leetcode/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
