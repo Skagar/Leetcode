@@ -597,6 +597,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0050-powx-n](https://github.com/Skagar/Leetcode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Skagar/Leetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Skagar/Leetcode/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/Skagar/Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Skagar/Leetcode/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/Skagar/Leetcode/tree/master/0204-count-primes) |
 | [0371-sum-of-two-integers](https://github.com/Skagar/Leetcode/tree/master/0371-sum-of-two-integers) |
@@ -900,6 +901,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Skagar/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Skagar/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0069-sqrtx](https://github.com/Skagar/Leetcode/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Skagar/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0098-validate-binary-search-tree](https://github.com/Skagar/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Skagar/Leetcode/tree/master/0099-recover-binary-search-tree) |
@@ -1134,4 +1136,8 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Skagar/Leetcode/tree/master/1140-stone-game-ii) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Skagar/Leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
