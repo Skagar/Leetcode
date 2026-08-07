@@ -8,8 +8,8 @@ public:
             int m = s + (e - s) / 2;
             if (nums[m] == target)
                 return m;
-            else if (nums[s] <= nums[m]) {
-                if (nums[s] <= target && target <= nums[m])
+            else if (nums[m] >= nums[s]) {
+                if (target >= nums[s] && target <= nums[m])
                     e = m - 1;
                 else
                     s = m + 1;
