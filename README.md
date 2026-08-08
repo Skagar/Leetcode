@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Skagar/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Skagar/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/Skagar/Leetcode/tree/master/1470-shuffle-the-array) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Skagar/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1514-path-with-maximum-probability](https://github.com/Skagar/Leetcode/tree/master/1514-path-with-maximum-probability) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Skagar/Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1631-path-with-minimum-effort](https://github.com/Skagar/Leetcode/tree/master/1631-path-with-minimum-effort) |
@@ -937,6 +938,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Skagar/Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1285-balance-a-binary-search-tree](https://github.com/Skagar/Leetcode/tree/master/1285-balance-a-binary-search-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Skagar/Leetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Skagar/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1631-path-with-minimum-effort](https://github.com/Skagar/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Skagar/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Skagar/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
