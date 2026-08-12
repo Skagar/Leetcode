@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0485-max-consecutive-ones](https://github.com/Skagar/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/Skagar/Leetcode/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/Skagar/Leetcode/tree/master/0494-target-sum) |
+| [0498-diagonal-traverse](https://github.com/Skagar/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0503-next-greater-element-ii](https://github.com/Skagar/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/Skagar/Leetcode/tree/master/0506-relative-ranks) |
 | [0518-coin-change-ii](https://github.com/Skagar/Leetcode/tree/master/0518-coin-change-ii) |
@@ -348,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [0054-spiral-matrix](https://github.com/Skagar/Leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Skagar/Leetcode/tree/master/0059-spiral-matrix-ii) |
+| [0498-diagonal-traverse](https://github.com/Skagar/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0735-asteroid-collision](https://github.com/Skagar/Leetcode/tree/master/0735-asteroid-collision) |
 | [1260-shift-2d-grid](https://github.com/Skagar/Leetcode/tree/master/1260-shift-2d-grid) |
 | [2058-concatenation-of-array](https://github.com/Skagar/Leetcode/tree/master/2058-concatenation-of-array) |
@@ -553,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0200-number-of-islands](https://github.com/Skagar/Leetcode/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Skagar/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0419-battleships-in-a-board](https://github.com/Skagar/Leetcode/tree/master/0419-battleships-in-a-board) |
+| [0498-diagonal-traverse](https://github.com/Skagar/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0542-01-matrix](https://github.com/Skagar/Leetcode/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/Skagar/Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Skagar/Leetcode/tree/master/0733-flood-fill) |
