@@ -1,41 +1,50 @@
 class Solution {
 public:
     double findMedianSortedArrays(vector<int>& nums1, vector<int>& nums2) {
-        vector<int> res;
+        int n = nums1.size();
+        int m = nums2.size();
         int i = 0;
         int j = 0;
-        int n1 = nums1.size();
-        int n2 = nums2.size();
-        while (i < n1 && j < n2) {
+        int cnt = 0;
+        int ele1 = -1, ele2 = -1;
+        int ind1 = -1, ind2 = -1;
+        if ((m + n) % 2 == 0) {
+            ind2 = (m + n) / 2;
+            ind1 = ind2 - 1;
+        } else
+            ind2 = (m + n) / 2;
+        while (i < n && j < m) {
+            if (ind1 == cnt)
+                ele1 = min(nums1[i], nums2[j]);
+            if (ind2 == cnt)
+                ele2 = min(nums1[i], nums2[j]);
             if (nums1[i] < nums2[j]) {
-                res.push_back(nums1[i]);
                 i++;
-            } else if (nums1[i] > nums2[j]) {
-                res.push_back(nums2[j]);
-                j++;
+                cnt++;
             } else {
-                res.push_back(nums1[i]);
-                res.push_back(nums2[j]);
-                i++;
                 j++;
+                cnt++;
             }
         }
-        while (i < n1) {
-            res.push_back(nums1[i]);
+        while (i < n) {
+            if (ind1 == cnt)
+                ele1 = nums1[i];
+            if (ind2 == cnt)
+                ele2 = nums1[i];
             i++;
+            cnt++;
         }
-        while (j < n2) {
-            res.push_back(nums2[j]);
+        while (j < m) {
+            if (ind1 == cnt)
+                ele1 = nums2[j];
+            if (ind2 == cnt)
+                ele2 = nums2[j];
             j++;
+            cnt++;
         }
-        int r = res.size();
-        if (r % 2 != 0) {
-            return (double)res[(r / 2)];
-        } else {
-            double val = ((double)res[r / 2] +
-                          (double)res[(double)(r-1) / (double)2]) /
-                         (double)2;
-            return val;
-        }
+        if (ind1 == -1)
+            return (double)ele2;
+
+        return ((double)ele1 + (double)ele2) / (double)2;
     }
 };
