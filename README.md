@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0943-sum-of-subarray-minimums](https://github.com/Skagar/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [0948-sort-an-array](https://github.com/Skagar/Leetcode/tree/master/0948-sort-an-array) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Skagar/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [0976-largest-perimeter-triangle](https://github.com/Skagar/Leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/Skagar/Leetcode/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Skagar/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [0994-rotting-oranges](https://github.com/Skagar/Leetcode/tree/master/0994-rotting-oranges) |
@@ -420,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Skagar/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Skagar/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0860-lemonade-change](https://github.com/Skagar/Leetcode/tree/master/0860-lemonade-change) |
+| [0976-largest-perimeter-triangle](https://github.com/Skagar/Leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1285-balance-a-binary-search-tree](https://github.com/Skagar/Leetcode/tree/master/1285-balance-a-binary-search-tree) |
 | [1833-maximum-ice-cream-bars](https://github.com/Skagar/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Skagar/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -464,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0658-find-k-closest-elements](https://github.com/Skagar/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/Skagar/Leetcode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0948-sort-an-array](https://github.com/Skagar/Leetcode/tree/master/0948-sort-an-array) |
+| [0976-largest-perimeter-triangle](https://github.com/Skagar/Leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1014-k-closest-points-to-origin](https://github.com/Skagar/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Skagar/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1048-longest-string-chain](https://github.com/Skagar/Leetcode/tree/master/1048-longest-string-chain) |
@@ -632,6 +635,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0445-add-two-numbers-ii](https://github.com/Skagar/Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Skagar/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Skagar/Leetcode/tree/master/0877-stone-game) |
+| [0976-largest-perimeter-triangle](https://github.com/Skagar/Leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1014-k-closest-points-to-origin](https://github.com/Skagar/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1140-stone-game-ii](https://github.com/Skagar/Leetcode/tree/master/1140-stone-game-ii) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Skagar/Leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
@@ -1186,4 +1190,12 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/Skagar/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
+## Quicksort
+|  |
+| ------- |
+| [0976-largest-perimeter-triangle](https://github.com/Skagar/Leetcode/tree/master/0976-largest-perimeter-triangle) |
+## Polygons
+|  |
+| ------- |
+| [0976-largest-perimeter-triangle](https://github.com/Skagar/Leetcode/tree/master/0976-largest-perimeter-triangle) |
 <!---LeetCode Topics End-->
