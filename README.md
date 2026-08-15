@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0746-min-cost-climbing-stairs](https://github.com/Skagar/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0766-toeplitz-matrix](https://github.com/Skagar/Leetcode/tree/master/0766-toeplitz-matrix) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/Skagar/Leetcode/tree/master/0802-k-th-smallest-prime-fraction) |
+| [0835-image-overlap](https://github.com/Skagar/Leetcode/tree/master/0835-image-overlap) |
 | [0860-lemonade-change](https://github.com/Skagar/Leetcode/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/Skagar/Leetcode/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/Skagar/Leetcode/tree/master/0904-fruit-into-baskets) |
@@ -583,6 +584,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0695-max-area-of-island](https://github.com/Skagar/Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Skagar/Leetcode/tree/master/0733-flood-fill) |
 | [0766-toeplitz-matrix](https://github.com/Skagar/Leetcode/tree/master/0766-toeplitz-matrix) |
+| [0835-image-overlap](https://github.com/Skagar/Leetcode/tree/master/0835-image-overlap) |
 | [0994-rotting-oranges](https://github.com/Skagar/Leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Skagar/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Skagar/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
