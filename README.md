@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [2161-partition-array-according-to-given-pivot](https://github.com/Skagar/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2187-minimum-time-to-complete-trips](https://github.com/Skagar/Leetcode/tree/master/2187-minimum-time-to-complete-trips) |
 | [2227-sum-of-subarray-ranges](https://github.com/Skagar/Leetcode/tree/master/2227-sum-of-subarray-ranges) |
+| [2256-minimum-average-difference](https://github.com/Skagar/Leetcode/tree/master/2256-minimum-average-difference) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/Skagar/Leetcode/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Skagar/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Skagar/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -1140,6 +1141,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1004-max-consecutive-ones-iii](https://github.com/Skagar/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/Skagar/Leetcode/tree/master/1140-stone-game-ii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Skagar/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [2256-minimum-average-difference](https://github.com/Skagar/Leetcode/tree/master/2256-minimum-average-difference) |
 ## Enumeration
 |  |
 | ------- |
