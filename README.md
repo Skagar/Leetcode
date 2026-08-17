@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [2187-minimum-time-to-complete-trips](https://github.com/Skagar/Leetcode/tree/master/2187-minimum-time-to-complete-trips) |
 | [2227-sum-of-subarray-ranges](https://github.com/Skagar/Leetcode/tree/master/2227-sum-of-subarray-ranges) |
 | [2256-minimum-average-difference](https://github.com/Skagar/Leetcode/tree/master/2256-minimum-average-difference) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/Skagar/Leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Skagar/Leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/Skagar/Leetcode/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Skagar/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1048-longest-string-chain](https://github.com/Skagar/Leetcode/tree/master/1048-longest-string-chain) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Skagar/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Skagar/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/Skagar/Leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Skagar/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Skagar/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
@@ -498,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [2007-find-original-array-from-doubled-array](https://github.com/Skagar/Leetcode/tree/master/2007-find-original-array-from-doubled-array) |
 | [2126-destroying-asteroids](https://github.com/Skagar/Leetcode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Skagar/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/Skagar/Leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Skagar/Leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/Skagar/Leetcode/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Skagar/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -999,6 +1002,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Skagar/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1631-path-with-minimum-effort](https://github.com/Skagar/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [2187-minimum-time-to-complete-trips](https://github.com/Skagar/Leetcode/tree/master/2187-minimum-time-to-complete-trips) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/Skagar/Leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Skagar/Leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Skagar/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Skagar/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
