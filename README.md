@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [2227-sum-of-subarray-ranges](https://github.com/Skagar/Leetcode/tree/master/2227-sum-of-subarray-ranges) |
 | [2256-minimum-average-difference](https://github.com/Skagar/Leetcode/tree/master/2256-minimum-average-difference) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Skagar/Leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [2348-number-of-zero-filled-subarrays](https://github.com/Skagar/Leetcode/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Skagar/Leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/Skagar/Leetcode/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Skagar/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -677,6 +678,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Skagar/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Skagar/Leetcode/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Skagar/Leetcode/tree/master/2288-count-operations-to-obtain-zero) |
+| [2348-number-of-zero-filled-subarrays](https://github.com/Skagar/Leetcode/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/Skagar/Leetcode/tree/master/2696-the-number-of-beautiful-subsets) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Skagar/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Skagar/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
