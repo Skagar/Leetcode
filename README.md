@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Skagar/Leetcode/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Skagar/Leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1329-sort-the-matrix-diagonally](https://github.com/Skagar/Leetcode/tree/master/1329-sort-the-matrix-diagonally) |
+| [1345-jump-game-iv](https://github.com/Skagar/Leetcode/tree/master/1345-jump-game-iv) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Skagar/Leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Skagar/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Skagar/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Skagar/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1048-longest-string-chain](https://github.com/Skagar/Leetcode/tree/master/1048-longest-string-chain) |
 | [1189-maximum-number-of-balloons](https://github.com/Skagar/Leetcode/tree/master/1189-maximum-number-of-balloons) |
+| [1345-jump-game-iv](https://github.com/Skagar/Leetcode/tree/master/1345-jump-game-iv) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Skagar/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2007-find-original-array-from-doubled-array](https://github.com/Skagar/Leetcode/tree/master/2007-find-original-array-from-doubled-array) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/Skagar/Leetcode/tree/master/2696-the-number-of-beautiful-subsets) |
@@ -916,6 +918,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1091-shortest-path-in-binary-matrix](https://github.com/Skagar/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Skagar/Leetcode/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Skagar/Leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1345-jump-game-iv](https://github.com/Skagar/Leetcode/tree/master/1345-jump-game-iv) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Skagar/Leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Skagar/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Skagar/Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
