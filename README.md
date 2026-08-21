@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0347-top-k-frequent-elements](https://github.com/Skagar/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Skagar/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Skagar/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/Skagar/Leetcode/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0389-find-the-difference](https://github.com/Skagar/Leetcode/tree/master/0389-find-the-difference) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Skagar/Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Skagar/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
@@ -523,11 +524,13 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0155-min-stack](https://github.com/Skagar/Leetcode/tree/master/0155-min-stack) |
 | [0295-find-median-from-data-stream](https://github.com/Skagar/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Skagar/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/Skagar/Leetcode/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0937-online-stock-span](https://github.com/Skagar/Leetcode/tree/master/0937-online-stock-span) |
 ## Data Stream
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Skagar/Leetcode/tree/master/0295-find-median-from-data-stream) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/Skagar/Leetcode/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0937-online-stock-span](https://github.com/Skagar/Leetcode/tree/master/0937-online-stock-span) |
 ## Queue
 |  |
@@ -994,6 +997,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Skagar/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0349-intersection-of-two-arrays](https://github.com/Skagar/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Skagar/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/Skagar/Leetcode/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Skagar/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/Skagar/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0436-find-right-interval](https://github.com/Skagar/Leetcode/tree/master/0436-find-right-interval) |
@@ -1110,6 +1114,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0128-longest-consecutive-sequence](https://github.com/Skagar/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Skagar/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Skagar/Leetcode/tree/master/0200-number-of-islands) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/Skagar/Leetcode/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0547-number-of-provinces](https://github.com/Skagar/Leetcode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/Skagar/Leetcode/tree/master/0695-max-area-of-island) |
 | [1020-number-of-enclaves](https://github.com/Skagar/Leetcode/tree/master/1020-number-of-enclaves) |
@@ -1213,6 +1218,7 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Ordered Set
 |  |
 | ------- |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/Skagar/Leetcode/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0493-reverse-pairs](https://github.com/Skagar/Leetcode/tree/master/0493-reverse-pairs) |
 ## Treap
 |  |
