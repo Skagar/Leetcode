@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0909-snakes-and-ladders](https://github.com/Skagar/Leetcode/tree/master/0909-snakes-and-ladders) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Skagar/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0930-binary-subarrays-with-sum](https://github.com/Skagar/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
+| [0934-shortest-bridge](https://github.com/Skagar/Leetcode/tree/master/0934-shortest-bridge) |
 | [0943-sum-of-subarray-minimums](https://github.com/Skagar/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [0948-sort-an-array](https://github.com/Skagar/Leetcode/tree/master/0948-sort-an-array) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Skagar/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -614,6 +615,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0766-toeplitz-matrix](https://github.com/Skagar/Leetcode/tree/master/0766-toeplitz-matrix) |
 | [0835-image-overlap](https://github.com/Skagar/Leetcode/tree/master/0835-image-overlap) |
 | [0909-snakes-and-ladders](https://github.com/Skagar/Leetcode/tree/master/0909-snakes-and-ladders) |
+| [0934-shortest-bridge](https://github.com/Skagar/Leetcode/tree/master/0934-shortest-bridge) |
 | [0994-rotting-oranges](https://github.com/Skagar/Leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Skagar/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Skagar/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -812,6 +814,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0841-keys-and-rooms](https://github.com/Skagar/Leetcode/tree/master/0841-keys-and-rooms) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Skagar/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/Skagar/Leetcode/tree/master/0904-leaf-similar-trees) |
+| [0934-shortest-bridge](https://github.com/Skagar/Leetcode/tree/master/0934-shortest-bridge) |
 | [0975-range-sum-of-bst](https://github.com/Skagar/Leetcode/tree/master/0975-range-sum-of-bst) |
 | [1005-univalued-binary-tree](https://github.com/Skagar/Leetcode/tree/master/1005-univalued-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/Skagar/Leetcode/tree/master/1020-number-of-enclaves) |
@@ -924,6 +927,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0841-keys-and-rooms](https://github.com/Skagar/Leetcode/tree/master/0841-keys-and-rooms) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Skagar/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0909-snakes-and-ladders](https://github.com/Skagar/Leetcode/tree/master/0909-snakes-and-ladders) |
+| [0934-shortest-bridge](https://github.com/Skagar/Leetcode/tree/master/0934-shortest-bridge) |
 | [0994-rotting-oranges](https://github.com/Skagar/Leetcode/tree/master/0994-rotting-oranges) |
 | [1005-univalued-binary-tree](https://github.com/Skagar/Leetcode/tree/master/1005-univalued-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/Skagar/Leetcode/tree/master/1020-number-of-enclaves) |
