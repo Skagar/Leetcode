@@ -427,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Skagar/Leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Skagar/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Skagar/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1927-sum-game](https://github.com/Skagar/Leetcode/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Skagar/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Skagar/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Skagar/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -454,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1833-maximum-ice-cream-bars](https://github.com/Skagar/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Skagar/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Skagar/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1927-sum-game](https://github.com/Skagar/Leetcode/tree/master/1927-sum-game) |
 | [2007-find-original-array-from-doubled-array](https://github.com/Skagar/Leetcode/tree/master/2007-find-original-array-from-doubled-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Skagar/Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/Skagar/Leetcode/tree/master/2126-destroying-asteroids) |
@@ -687,6 +689,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Skagar/Leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1510-stone-game-iv](https://github.com/Skagar/Leetcode/tree/master/1510-stone-game-iv) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Skagar/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1927-sum-game](https://github.com/Skagar/Leetcode/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Skagar/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Skagar/Leetcode/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Skagar/Leetcode/tree/master/2288-count-operations-to-obtain-zero) |
@@ -1223,6 +1226,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0877-stone-game](https://github.com/Skagar/Leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Skagar/Leetcode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Skagar/Leetcode/tree/master/1510-stone-game-iv) |
+| [1927-sum-game](https://github.com/Skagar/Leetcode/tree/master/1927-sum-game) |
 ## Ordered Set
 |  |
 | ------- |
