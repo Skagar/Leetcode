@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Skagar/Leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2551-put-marbles-in-bags](https://github.com/Skagar/Leetcode/tree/master/2551-put-marbles-in-bags) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/Skagar/Leetcode/tree/master/2696-the-number-of-beautiful-subsets) |
+| [2740-find-the-value-of-the-partition](https://github.com/Skagar/Leetcode/tree/master/2740-find-the-value-of-the-partition) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Skagar/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Skagar/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Skagar/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -523,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Skagar/Leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2551-put-marbles-in-bags](https://github.com/Skagar/Leetcode/tree/master/2551-put-marbles-in-bags) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/Skagar/Leetcode/tree/master/2696-the-number-of-beautiful-subsets) |
+| [2740-find-the-value-of-the-partition](https://github.com/Skagar/Leetcode/tree/master/2740-find-the-value-of-the-partition) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Skagar/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Skagar/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Skagar/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
