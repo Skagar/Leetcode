@@ -437,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1927-sum-game](https://github.com/Skagar/Leetcode/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Skagar/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Skagar/Leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Skagar/Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Skagar/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Skagar/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/Skagar/Leetcode/tree/master/3746-minimum-string-length-after-balanced-removals) |
@@ -576,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Skagar/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1652-defuse-the-bomb](https://github.com/Skagar/Leetcode/tree/master/1652-defuse-the-bomb) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Skagar/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Skagar/Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Skagar/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Skagar/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Heap (Priority Queue)
