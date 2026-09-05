@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Skagar/Leetcode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Skagar/Leetcode/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Skagar/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3904-smallest-stable-index-ii](https://github.com/Skagar/Leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -1212,6 +1213,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [2256-minimum-average-difference](https://github.com/Skagar/Leetcode/tree/master/2256-minimum-average-difference) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Skagar/Leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Skagar/Leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
+| [3904-smallest-stable-index-ii](https://github.com/Skagar/Leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## Enumeration
 |  |
 | ------- |
