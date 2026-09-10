@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Skagar/Leetcode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Skagar/Leetcode/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Skagar/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/Skagar/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3904-smallest-stable-index-ii](https://github.com/Skagar/Leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## Hash Table
 |  |
@@ -722,6 +723,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Skagar/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Skagar/Leetcode/tree/master/3783-mirror-distance-of-an-integer) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Skagar/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/Skagar/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Combinatorics
 |  |
 | ------- |
