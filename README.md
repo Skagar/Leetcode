@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0414-third-maximum-number](https://github.com/Skagar/Leetcode/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/Skagar/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0419-battleships-in-a-board](https://github.com/Skagar/Leetcode/tree/master/0419-battleships-in-a-board) |
+| [0435-non-overlapping-intervals](https://github.com/Skagar/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0436-find-right-interval](https://github.com/Skagar/Leetcode/tree/master/0436-find-right-interval) |
 | [0455-assign-cookies](https://github.com/Skagar/Leetcode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Skagar/Leetcode/tree/master/0485-max-consecutive-ones) |
@@ -363,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0396-rotate-function](https://github.com/Skagar/Leetcode/tree/master/0396-rotate-function) |
 | [0410-split-array-largest-sum](https://github.com/Skagar/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/Skagar/Leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0435-non-overlapping-intervals](https://github.com/Skagar/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/Skagar/Leetcode/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/Skagar/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Skagar/Leetcode/tree/master/0518-coin-change-ii) |
@@ -458,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0376-wiggle-subsequence](https://github.com/Skagar/Leetcode/tree/master/0376-wiggle-subsequence) |
 | [0402-remove-k-digits](https://github.com/Skagar/Leetcode/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/Skagar/Leetcode/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/Skagar/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Skagar/Leetcode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/Skagar/Leetcode/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/Skagar/Leetcode/tree/master/0605-can-place-flowers) |
@@ -502,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Skagar/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0389-find-the-difference](https://github.com/Skagar/Leetcode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Skagar/Leetcode/tree/master/0414-third-maximum-number) |
+| [0435-non-overlapping-intervals](https://github.com/Skagar/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0436-find-right-interval](https://github.com/Skagar/Leetcode/tree/master/0436-find-right-interval) |
 | [0451-sort-characters-by-frequency](https://github.com/Skagar/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/Skagar/Leetcode/tree/master/0455-assign-cookies) |
