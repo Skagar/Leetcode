@@ -7,10 +7,10 @@ public:
         int ans = INT_MAX;
         while (s <= e) {
             int m = s + (e - s) / 2;
-            if (nums[s] <= nums[m]) {
+            if (nums[m] >= nums[s]) {
                 ans = min(ans, nums[s]);
                 s = m + 1;
-            } else {
+            } else if (nums[m] <= nums[e]) {
                 ans = min(ans, nums[m]);
                 e = m - 1;
             }
