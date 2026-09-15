@@ -13,7 +13,7 @@ public:
                     e = m - 1;
                 else
                     s = m + 1;
-            } else {
+            } else if (nums[m] <= nums[e]) {
                 if (target >= nums[m] && target <= nums[e])
                     s = m + 1;
                 else
