@@ -477,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0976-largest-perimeter-triangle](https://github.com/Skagar/Leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Skagar/Leetcode/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1285-balance-a-binary-search-tree](https://github.com/Skagar/Leetcode/tree/master/1285-balance-a-binary-search-tree) |
+| [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/Skagar/Leetcode/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/Skagar/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Skagar/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Skagar/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -723,6 +724,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Skagar/Leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1510-stone-game-iv](https://github.com/Skagar/Leetcode/tree/master/1510-stone-game-iv) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Skagar/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/Skagar/Leetcode/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [1872-stone-game-viii](https://github.com/Skagar/Leetcode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Skagar/Leetcode/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Skagar/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -1072,6 +1074,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Skagar/Leetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Skagar/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1631-path-with-minimum-effort](https://github.com/Skagar/Leetcode/tree/master/1631-path-with-minimum-effort) |
+| [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/Skagar/Leetcode/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [2187-minimum-time-to-complete-trips](https://github.com/Skagar/Leetcode/tree/master/2187-minimum-time-to-complete-trips) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Skagar/Leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Skagar/Leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
