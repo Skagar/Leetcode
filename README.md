@@ -335,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Skagar/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Skagar/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Skagar/Leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Skagar/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Skagar/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Skagar/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
@@ -388,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1510-stone-game-iv](https://github.com/Skagar/Leetcode/tree/master/1510-stone-game-iv) |
 | [1872-stone-game-viii](https://github.com/Skagar/Leetcode/tree/master/1872-stone-game-viii) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Skagar/Leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Skagar/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/Skagar/Leetcode/tree/master/2696-the-number-of-beautiful-subsets) |
 | [3620-network-recovery-pathways](https://github.com/Skagar/Leetcode/tree/master/3620-network-recovery-pathways) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Skagar/Leetcode/tree/master/3742-maximum-path-score-in-a-grid) |
@@ -446,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1927-sum-game](https://github.com/Skagar/Leetcode/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Skagar/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2446-determine-if-two-events-have-conflict](https://github.com/Skagar/Leetcode/tree/master/2446-determine-if-two-events-have-conflict) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Skagar/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Skagar/Leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Skagar/Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Skagar/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -483,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [2126-destroying-asteroids](https://github.com/Skagar/Leetcode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Skagar/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Skagar/Leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Skagar/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2551-put-marbles-in-bags](https://github.com/Skagar/Leetcode/tree/master/2551-put-marbles-in-bags) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Skagar/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Skagar/Leetcode/tree/master/3689-maximum-total-subarray-value-i) |
