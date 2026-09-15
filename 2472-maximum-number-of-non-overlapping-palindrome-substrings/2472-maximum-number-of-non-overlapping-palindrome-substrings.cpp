@@ -8,20 +8,20 @@ class Solution {
         }
         return true;
     }
-    int solve(string& s, int& n, int& k, int i, int j,
-              vector<vector<int>>& dp) {
+    int solve(string& s, int& n, int& k, int i, int j, vector<vector<int>>& dp,
+              vector<vector<bool>>& ispalin) {
         if (i >= n || j >= n)
             return 0;
         if (dp[i][j] != -1)
             return dp[i][j];
-        if (checkpalin(s, i, j)) {
-            int take = 1 + solve(s, n, k, j + 1, j + k, dp);
-            int grow = solve(s, n, k, i, j + 1, dp);
-            int skip = solve(s, n, k, i + 1, j + 1, dp);
+        if (ispalin[i][j]) {
+            int take = 1 + solve(s, n, k, j + 1, j + k, dp, ispalin);
+            int grow = solve(s, n, k, i, j + 1, dp, ispalin);
+            int skip = solve(s, n, k, i + 1, j + 1, dp, ispalin);
             return dp[i][j] = max(take, max(grow, skip));
         }
-        int grow = solve(s, n, k, i, j + 1, dp);
-        int skip = solve(s, n, k, i + 1, j + 1, dp);
+        int grow = solve(s, n, k, i, j + 1, dp, ispalin);
+        int skip = solve(s, n, k, i + 1, j + 1, dp, ispalin);
         return dp[i][j] = max(grow, skip);
     }
 
@@ -55,9 +55,21 @@ public:
                   i++;
           }
           return cnt;*/
+        vector<vector<bool>> ispalin(n + 1, vector<bool>(n + 1, false));
+        for (int L = 1; L <= n; L++) {
+            for (int i = 0; i + L <= n; i++) {
+                int j = L + i - 1;
+                if (i == j)
+                    ispalin[i][j] = true;
+                else if (i + 1 == j)
+                    ispalin[i][j] = (s[i] == s[j]);
+                else
+                    ispalin[i][j] = (s[i] == s[j]) && (ispalin[i + 1][j - 1]);
+            }
+        }
         vector<vector<int>> dp(n + 1, vector<int>(n + 1, -1));
         if (k == 1)
             return n;
-        return solve(s, n, k, 0, k - 1, dp);
+        return solve(s, n, k, 0, k - 1, dp, ispalin);
     }
 };
