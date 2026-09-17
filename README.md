@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Skagar/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Skagar/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/Skagar/Leetcode/tree/master/1470-shuffle-the-array) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Skagar/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Skagar/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1514-path-with-maximum-probability](https://github.com/Skagar/Leetcode/tree/master/1514-path-with-maximum-probability) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Skagar/Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Skagar/Leetcode/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1345-jump-game-iv](https://github.com/Skagar/Leetcode/tree/master/1345-jump-game-iv) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Skagar/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Skagar/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2007-find-original-array-from-doubled-array](https://github.com/Skagar/Leetcode/tree/master/2007-find-original-array-from-doubled-array) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/Skagar/Leetcode/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Skagar/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -387,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1143-longest-common-subsequence](https://github.com/Skagar/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Skagar/Leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Skagar/Leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Skagar/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1510-stone-game-iv](https://github.com/Skagar/Leetcode/tree/master/1510-stone-game-iv) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Skagar/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/Skagar/Leetcode/tree/master/1872-stone-game-viii) |
@@ -595,6 +598,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1004-max-consecutive-ones-iii](https://github.com/Skagar/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Skagar/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Skagar/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Skagar/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1652-defuse-the-bomb](https://github.com/Skagar/Leetcode/tree/master/1652-defuse-the-bomb) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Skagar/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Skagar/Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -1079,6 +1083,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Skagar/Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1285-balance-a-binary-search-tree](https://github.com/Skagar/Leetcode/tree/master/1285-balance-a-binary-search-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Skagar/Leetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Skagar/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Skagar/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1631-path-with-minimum-effort](https://github.com/Skagar/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/Skagar/Leetcode/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
