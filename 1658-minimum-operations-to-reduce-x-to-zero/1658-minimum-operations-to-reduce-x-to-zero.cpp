@@ -15,13 +15,15 @@ class Solution {
 
 public:
     int minOperations(vector<int>& nums, int x) {
-        //int n = nums.size();
+        // int n = nums.size();
         /*int val = countmin(0, n - 1, n, nums, x);
         if (val >= 1e9)
             return -1;
         return val;*/
         int n = nums.size();
-        map<long long, int> mpre;
+        // M2 USING PREFIX AND SUFFIX SUM
+
+        /*map<long long, int> mpre;
         map<long long, int> msuf;
         long long presum = 0;
         long long sufsum = 0;
@@ -52,6 +54,28 @@ public:
                     ans = min(ans, prefixLen + suffixLen);
             }
         }
-        return ans == INT_MAX ? -1 : ans;
+        return ans == INT_MAX ? -1 : ans;*/
+        int maxlen = INT_MIN;
+        long long totalSum = accumulate(nums.begin(), nums.end(), 0LL);
+        long long xVal = (long long)x;
+        long long remSum = totalSum - xVal;
+        if (remSum < 0)
+            return -1;
+        if (remSum == 0)
+            return n;
+        long long sum = 0;
+        int l = 0;
+        int r = 0;
+        while (r < n) {
+            sum += (long long)nums[r];
+            while (l < r && sum > remSum) {
+                sum -= nums[l++];
+            }
+            if (sum == remSum) {
+                maxlen = max(maxlen, r - l + 1);
+            }
+            r++;
+        }
+        return maxlen == INT_MIN ? -1 : (n - maxlen);
     }
 };
