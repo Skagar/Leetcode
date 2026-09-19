@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Skagar/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Skagar/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1514-path-with-maximum-probability](https://github.com/Skagar/Leetcode/tree/master/1514-path-with-maximum-probability) |
+| [1539-kth-missing-positive-number](https://github.com/Skagar/Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Skagar/Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1631-path-with-minimum-effort](https://github.com/Skagar/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1652-defuse-the-bomb](https://github.com/Skagar/Leetcode/tree/master/1652-defuse-the-bomb) |
@@ -1099,6 +1100,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Skagar/Leetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Skagar/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Skagar/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1539-kth-missing-positive-number](https://github.com/Skagar/Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1631-path-with-minimum-effort](https://github.com/Skagar/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Skagar/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/Skagar/Leetcode/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
