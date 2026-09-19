@@ -741,6 +741,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0976-largest-perimeter-triangle](https://github.com/Skagar/Leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1014-k-closest-points-to-origin](https://github.com/Skagar/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1140-stone-game-ii](https://github.com/Skagar/Leetcode/tree/master/1140-stone-game-ii) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Skagar/Leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Skagar/Leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1510-stone-game-iv](https://github.com/Skagar/Leetcode/tree/master/1510-stone-game-iv) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Skagar/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -1175,6 +1176,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Skagar/Leetcode/tree/master/0836-rectangle-overlap) |
 | [1014-k-closest-points-to-origin](https://github.com/Skagar/Leetcode/tree/master/1014-k-closest-points-to-origin) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Skagar/Leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Graph
 |  |
 | ------- |
