@@ -421,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Skagar/Leetcode/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Skagar/Leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [3379-transformed-array](https://github.com/Skagar/Leetcode/tree/master/3379-transformed-array) |
+| [3498-reverse-degree-of-a-string](https://github.com/Skagar/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Skagar/Leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Skagar/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
@@ -465,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [2483-minimum-penalty-for-a-shop](https://github.com/Skagar/Leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Skagar/Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Skagar/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3498-reverse-degree-of-a-string](https://github.com/Skagar/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Skagar/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/Skagar/Leetcode/tree/master/3746-minimum-string-length-after-balanced-removals) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Skagar/Leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
