@@ -254,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0997-find-the-town-judge](https://github.com/Skagar/Leetcode/tree/master/0997-find-the-town-judge) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Skagar/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1048-longest-string-chain](https://github.com/Skagar/Leetcode/tree/master/1048-longest-string-chain) |
+| [1096-brace-expansion-ii](https://github.com/Skagar/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/Skagar/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Skagar/Leetcode/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1345-jump-game-iv](https://github.com/Skagar/Leetcode/tree/master/1345-jump-game-iv) |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1019-next-greater-node-in-linked-list](https://github.com/Skagar/Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Skagar/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Skagar/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1096-brace-expansion-ii](https://github.com/Skagar/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Skagar/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2227-sum-of-subarray-ranges](https://github.com/Skagar/Leetcode/tree/master/2227-sum-of-subarray-ranges) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/Skagar/Leetcode/tree/master/3746-minimum-string-length-after-balanced-removals) |
@@ -456,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0940-distinct-subsequences-ii](https://github.com/Skagar/Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Skagar/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1048-longest-string-chain](https://github.com/Skagar/Leetcode/tree/master/1048-longest-string-chain) |
+| [1096-brace-expansion-ii](https://github.com/Skagar/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1143-longest-common-subsequence](https://github.com/Skagar/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/Skagar/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Skagar/Leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -552,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1014-k-closest-points-to-origin](https://github.com/Skagar/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Skagar/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1048-longest-string-chain](https://github.com/Skagar/Leetcode/tree/master/1048-longest-string-chain) |
+| [1096-brace-expansion-ii](https://github.com/Skagar/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1200-minimum-absolute-difference](https://github.com/Skagar/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1288-remove-covered-intervals](https://github.com/Skagar/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1329-sort-the-matrix-diagonally](https://github.com/Skagar/Leetcode/tree/master/1329-sort-the-matrix-diagonally) |
@@ -709,6 +713,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0113-path-sum-ii](https://github.com/Skagar/Leetcode/tree/master/0113-path-sum-ii) |
 | [0494-target-sum](https://github.com/Skagar/Leetcode/tree/master/0494-target-sum) |
 | [0797-all-paths-from-source-to-target](https://github.com/Skagar/Leetcode/tree/master/0797-all-paths-from-source-to-target) |
+| [1096-brace-expansion-ii](https://github.com/Skagar/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/Skagar/Leetcode/tree/master/2696-the-number-of-beautiful-subsets) |
 ## Bit Manipulation
 |  |
@@ -1014,6 +1019,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1020-number-of-enclaves](https://github.com/Skagar/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Skagar/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Skagar/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1096-brace-expansion-ii](https://github.com/Skagar/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1254-number-of-closed-islands](https://github.com/Skagar/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Skagar/Leetcode/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Skagar/Leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
