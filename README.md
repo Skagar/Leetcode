@@ -302,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Skagar/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Skagar/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1096-brace-expansion-ii](https://github.com/Skagar/Leetcode/tree/master/1096-brace-expansion-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Skagar/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Skagar/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2227-sum-of-subarray-ranges](https://github.com/Skagar/Leetcode/tree/master/2227-sum-of-subarray-ranges) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/Skagar/Leetcode/tree/master/3746-minimum-string-length-after-balanced-removals) |
@@ -463,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1096-brace-expansion-ii](https://github.com/Skagar/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1143-longest-common-subsequence](https://github.com/Skagar/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/Skagar/Leetcode/tree/master/1189-maximum-number-of-balloons) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Skagar/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Skagar/Leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Skagar/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Skagar/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -1383,4 +1385,8 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [1192-critical-connections-in-a-network](https://github.com/Skagar/Leetcode/tree/master/1192-critical-connections-in-a-network) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Skagar/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
