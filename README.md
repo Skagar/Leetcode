@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [2058-concatenation-of-array](https://github.com/Skagar/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Skagar/Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/Skagar/Leetcode/tree/master/2126-destroying-asteroids) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/Skagar/Leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Skagar/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Skagar/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2187-minimum-time-to-complete-trips](https://github.com/Skagar/Leetcode/tree/master/2187-minimum-time-to-complete-trips) |
@@ -515,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [2007-find-original-array-from-doubled-array](https://github.com/Skagar/Leetcode/tree/master/2007-find-original-array-from-doubled-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Skagar/Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/Skagar/Leetcode/tree/master/2126-destroying-asteroids) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/Skagar/Leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Skagar/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Skagar/Leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/Skagar/Leetcode/tree/master/2448-minimum-cost-to-make-array-equal) |
@@ -576,6 +578,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Skagar/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2007-find-original-array-from-doubled-array](https://github.com/Skagar/Leetcode/tree/master/2007-find-original-array-from-doubled-array) |
 | [2126-destroying-asteroids](https://github.com/Skagar/Leetcode/tree/master/2126-destroying-asteroids) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/Skagar/Leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Skagar/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Skagar/Leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Skagar/Leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
@@ -1128,6 +1131,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/Skagar/Leetcode/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/Skagar/Leetcode/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Skagar/Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/Skagar/Leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2187-minimum-time-to-complete-trips](https://github.com/Skagar/Leetcode/tree/master/2187-minimum-time-to-complete-trips) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Skagar/Leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Skagar/Leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
