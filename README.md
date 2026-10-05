@@ -303,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0739-daily-temperatures](https://github.com/Skagar/Leetcode/tree/master/0739-daily-temperatures) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Skagar/Leetcode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Skagar/Leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0856-score-of-parentheses](https://github.com/Skagar/Leetcode/tree/master/0856-score-of-parentheses) |
 | [0937-online-stock-span](https://github.com/Skagar/Leetcode/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/Skagar/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Skagar/Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
@@ -471,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0451-sort-characters-by-frequency](https://github.com/Skagar/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0516-longest-palindromic-subsequence](https://github.com/Skagar/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/Skagar/Leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/Skagar/Leetcode/tree/master/0856-score-of-parentheses) |
 | [0940-distinct-subsequences-ii](https://github.com/Skagar/Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Skagar/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1048-longest-string-chain](https://github.com/Skagar/Leetcode/tree/master/1048-longest-string-chain) |
@@ -1413,6 +1415,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0022-generate-parentheses](https://github.com/Skagar/Leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Skagar/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Skagar/Leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/Skagar/Leetcode/tree/master/0856-score-of-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Skagar/Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Skagar/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Skagar/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
