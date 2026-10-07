@@ -465,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0127-word-ladder](https://github.com/Skagar/Leetcode/tree/master/0127-word-ladder) |
 | [0242-valid-anagram](https://github.com/Skagar/Leetcode/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Skagar/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/Skagar/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0389-find-the-difference](https://github.com/Skagar/Leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Skagar/Leetcode/tree/master/0392-is-subsequence) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Skagar/Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
@@ -740,6 +741,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0079-word-search](https://github.com/Skagar/Leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Skagar/Leetcode/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/Skagar/Leetcode/tree/master/0113-path-sum-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/Skagar/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0494-target-sum](https://github.com/Skagar/Leetcode/tree/master/0494-target-sum) |
 | [0797-all-paths-from-source-to-target](https://github.com/Skagar/Leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [1096-brace-expansion-ii](https://github.com/Skagar/Leetcode/tree/master/1096-brace-expansion-ii) |
@@ -1022,6 +1024,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0210-course-schedule-ii](https://github.com/Skagar/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/Skagar/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Skagar/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/Skagar/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/Skagar/Leetcode/tree/master/0322-coin-change) |
 | [0404-sum-of-left-leaves](https://github.com/Skagar/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/Skagar/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
