@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [2740-find-the-value-of-the-partition](https://github.com/Skagar/Leetcode/tree/master/2740-find-the-value-of-the-partition) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Skagar/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Skagar/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Skagar/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Skagar/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Skagar/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Skagar/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [2007-find-original-array-from-doubled-array](https://github.com/Skagar/Leetcode/tree/master/2007-find-original-array-from-doubled-array) |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/Skagar/Leetcode/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/Skagar/Leetcode/tree/master/2696-the-number-of-beautiful-subsets) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Skagar/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Skagar/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Skagar/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Skagar/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -545,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [2448-minimum-cost-to-make-array-equal](https://github.com/Skagar/Leetcode/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Skagar/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2551-put-marbles-in-bags](https://github.com/Skagar/Leetcode/tree/master/2551-put-marbles-in-bags) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Skagar/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Skagar/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Skagar/Leetcode/tree/master/3689-maximum-total-subarray-value-i) |
 ## Sorting
@@ -765,6 +768,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0693-binary-number-with-alternating-bits](https://github.com/Skagar/Leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 | [0864-shortest-path-to-get-all-keys](https://github.com/Skagar/Leetcode/tree/master/0864-shortest-path-to-get-all-keys) |
 | [1009-complement-of-base-10-integer](https://github.com/Skagar/Leetcode/tree/master/1009-complement-of-base-10-integer) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Skagar/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Skagar/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3827-count-monobit-integers](https://github.com/Skagar/Leetcode/tree/master/3827-count-monobit-integers) |
 ## Math
