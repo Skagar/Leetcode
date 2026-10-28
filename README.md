@@ -221,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [3742-maximum-path-score-in-a-grid](https://github.com/Skagar/Leetcode/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Skagar/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Skagar/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Skagar/Leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3904-smallest-stable-index-ii](https://github.com/Skagar/Leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## Hash Table
 |  |
@@ -436,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [3620-network-recovery-pathways](https://github.com/Skagar/Leetcode/tree/master/3620-network-recovery-pathways) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Skagar/Leetcode/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Skagar/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Skagar/Leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Simulation
 |  |
 | ------- |
@@ -746,6 +748,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Skagar/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Skagar/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Skagar/Leetcode/tree/master/3742-maximum-path-score-in-a-grid) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Skagar/Leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Backtracking
 |  |
 | ------- |
@@ -780,6 +783,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Skagar/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Skagar/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3827-count-monobit-integers](https://github.com/Skagar/Leetcode/tree/master/3827-count-monobit-integers) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Skagar/Leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Math
 |  |
 | ------- |
