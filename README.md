@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Skagar/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Skagar/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Skagar/Leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
+| [3886-sum-of-sortable-integers](https://github.com/Skagar/Leetcode/tree/master/3886-sum-of-sortable-integers) |
 | [3904-smallest-stable-index-ii](https://github.com/Skagar/Leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## Hash Table
 |  |
@@ -627,6 +628,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Skagar/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Skagar/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Skagar/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3886-sum-of-sortable-integers](https://github.com/Skagar/Leetcode/tree/master/3886-sum-of-sortable-integers) |
 ## Design
 |  |
 | ------- |
@@ -832,6 +834,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [3783-mirror-distance-of-an-integer](https://github.com/Skagar/Leetcode/tree/master/3783-mirror-distance-of-an-integer) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Skagar/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Skagar/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3886-sum-of-sortable-integers](https://github.com/Skagar/Leetcode/tree/master/3886-sum-of-sortable-integers) |
 ## Combinatorics
 |  |
 | ------- |
@@ -1360,6 +1363,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [3499-maximize-active-section-with-trade-i](https://github.com/Skagar/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Skagar/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3827-count-monobit-integers](https://github.com/Skagar/Leetcode/tree/master/3827-count-monobit-integers) |
+| [3886-sum-of-sortable-integers](https://github.com/Skagar/Leetcode/tree/master/3886-sum-of-sortable-integers) |
 ## Memoization
 |  |
 | ------- |
