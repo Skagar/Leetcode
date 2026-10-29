@@ -516,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/Skagar/Leetcode/tree/master/3746-minimum-string-length-after-balanced-removals) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Skagar/Leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Skagar/Leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/Skagar/Leetcode/tree/master/3863-minimum-operations-to-sort-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Skagar/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Greedy
 |  |
