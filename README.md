@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [3620-network-recovery-pathways](https://github.com/Skagar/Leetcode/tree/master/3620-network-recovery-pathways) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Skagar/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3637-trionic-array-i](https://github.com/Skagar/Leetcode/tree/master/3637-trionic-array-i) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Skagar/Leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Skagar/Leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Skagar/Leetcode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Skagar/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -790,6 +791,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1009-complement-of-base-10-integer](https://github.com/Skagar/Leetcode/tree/master/1009-complement-of-base-10-integer) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Skagar/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Skagar/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Skagar/Leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3827-count-monobit-integers](https://github.com/Skagar/Leetcode/tree/master/3827-count-monobit-integers) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Skagar/Leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Skagar/Leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
