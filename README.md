@@ -513,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Skagar/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/Skagar/Leetcode/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Skagar/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Skagar/Leetcode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2446-determine-if-two-events-have-conflict](https://github.com/Skagar/Leetcode/tree/master/2446-determine-if-two-events-have-conflict) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Skagar/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Skagar/Leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
